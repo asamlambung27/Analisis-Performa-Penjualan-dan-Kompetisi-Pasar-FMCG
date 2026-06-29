@@ -1,0 +1,728 @@
+tx_id,sku_name,category_group,price_raw,units_sold_raw,region_name,scrape_timestamp,price_clean,units_sold_clean,gross_revenue
+TX-90066,Wardah Lightening Day Cream 20ml,Paragon,Rp35.000,"1,250",National Trade,2026-06-01 20:26:32.251638,35000.0,1250,43750000.0
+TX-90019,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 45.000,2.100,Medan,2026-06-27 20:26:32.251910,45000.0,2100,94500000.0
+TX-90117,Wardah Lightening Day Cream 20ml,Paragon,Rp 12.500,None,Bandung,2026-06-14 20:26:32.251965,12500.0,0,0.0
+TX-90076,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 15.500,None,Dki Jakarta,2026-06-16 20:26:32.252006,15500.0,0,0.0
+TX-90043,Bango Kecap Manis Refill 520ml,Foods,Rp 15.500,None,Surabaya,2026-06-03 20:26:32.252040,15500.0,0,0.0
+TX-90008,Teh Pucuk Harum 350ml BARU,Foods,Rp 45.000,600,Dki Jakarta,2026-06-25 20:26:32.252069,45000.0,600,27000000.0
+TX-90073,Teh Pucuk Harum 350ml BARU,Foods,Rp 4.000,150,Surabaya,2026-06-14 20:26:32.252099,4000.0,150,600000.0
+TX-90068,Wardah Lightening Day Cream 20ml,Paragon,Rp 27.000,850,Dki Jakarta,2026-06-29 20:26:32.252126,27000.0,850,22950000.0
+TX-90004,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 18.500,850,Bandung,2026-06-08 20:26:32.252153,18500.0,850,15725000.0
+TX-90025,Kahf Face Wash Oil Control 100ml,Paragon,Rp 12.500,600,National Trade,2026-06-22 20:26:32.252182,12500.0,600,7500000.0
+TX-90039,Wardah Lightening Day Cream 20ml,Paragon,Rp 18.500,"1,250",Dki Jakarta,2026-06-15 20:26:32.252209,18500.0,1250,23125000.0
+TX-90075,Roma Kelapa Biscuit 300g,Foods,Rp 4.000,850,Medan,2026-06-28 20:26:32.252264,4000.0,850,3400000.0
+TX-90066,Teh Pucuk Harum 350ml BARU,Foods,null,600,National Trade,2026-06-22 20:26:32.252290,21935.483870967742,600,13161290.322580645
+TX-90009,Wardah Lightening Day Cream 20ml,Paragon,Rp 4.000,150,National Trade,2026-06-29 20:26:32.252324,4000.0,150,600000.0
+TX-90065,Teh Pucuk Harum 350ml BARU,Foods,Rp 18.500,0,National Trade,2026-06-03 20:26:32.252350,18500.0,0,0.0
+TX-90030,Bango Kecap Manis Refill 520ml,Foods,Rp 27.000,600,National Trade,2026-06-02 20:26:32.252377,27000.0,600,16200000.0
+TX-90003,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 12.500,"1,250",Gresik,2026-06-05 20:26:32.252404,12500.0,1250,15625000.0
+TX-90029,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp35.000,150,Surabaya,2026-06-05 20:26:32.252455,35000.0,150,5250000.0
+TX-90119,Roma Kelapa Biscuit 300g,Foods,null,600,Medan,2026-06-24 20:26:32.252480,22432.7731092437,600,13459663.865546219
+TX-90086,Wardah Lightening Day Cream 20ml,Paragon,Rp 12.500,150,Surabaya,2026-06-08 20:26:32.252505,12500.0,150,1875000.0
+TX-90116,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 15.500,150,Bandung,2026-06-17 20:26:32.252538,15500.0,150,2325000.0
+TX-90015,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 4.000,None,Surabaya,2026-06-11 20:26:32.252571,4000.0,0,0.0
+TX-90019,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,null,430,Bandung,2026-06-25 20:26:32.252597,21519.04761904762,430,9253190.476190476
+TX-90103,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 15.500,None,Bandung,2026-06-28 20:26:32.252622,15500.0,0,0.0
+TX-90040,Bango Kecap Manis Refill 520ml,Foods,Rp 27.000,"1,250",Dki Jakarta,2026-06-03 20:26:32.252647,27000.0,1250,33750000.0
+TX-90098,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 12.500,850,Dki Jakarta,2026-06-19 20:26:32.252672,12500.0,850,10625000.0
+TX-90006,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 15.500,None,National Trade,2026-06-08 20:26:32.252697,15500.0,0,0.0
+TX-90008,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 15.500,430,Surabaya,2026-06-12 20:26:32.252722,15500.0,430,6665000.0
+TX-90071,Wardah Lightening Day Cream 20ml,Paragon,Rp 27.000,850,Bandung,2026-06-12 20:26:32.252747,27000.0,850,22950000.0
+TX-90014,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 27.000,None,Dki Jakarta,2026-06-22 20:26:32.252771,27000.0,0,0.0
+TX-90053,Wardah Lightening Day Cream 20ml,Paragon,Rp 4.000,None,Gresik,2026-05-30 20:26:32.252796,4000.0,0,0.0
+TX-90060,Wardah Lightening Day Cream 20ml,Paragon,Rp 15.500,150,National Trade,2026-06-28 20:26:32.252821,15500.0,150,2325000.0
+TX-90039,Teh Pucuk Harum 350ml BARU,Foods,Rp35.000,2.100,National Trade,2026-06-01 20:26:32.252846,35000.0,2100,73500000.0
+TX-90059,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 15.500,2.100,Bandung,2026-06-25 20:26:32.252872,15500.0,2100,32550000.0
+TX-90022,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,None,Dki Jakarta,2026-06-24 20:26:32.252896,12500.0,0,0.0
+TX-90038,Teh Pucuk Harum 350ml BARU,Foods,Rp 27.000,2.100,Surabaya,2026-06-15 20:26:32.252921,27000.0,2100,56700000.0
+TX-90117,Teh Pucuk Harum 350ml BARU,Foods,Rp 12.500,"1,250",Surabaya,2026-06-27 20:26:32.252946,12500.0,1250,15625000.0
+TX-90110,Teh Pucuk Harum 350ml BARU,Foods,null,150,Dki Jakarta,2026-06-27 20:26:32.252970,21935.483870967742,150,3290322.580645161
+TX-90054,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp35.000,600,Medan,2026-06-27 20:26:32.252995,35000.0,600,21000000.0
+TX-90018,Bango Kecap Manis Refill 520ml,Foods,Rp 15.500,0,National Trade,2026-06-22 20:26:32.253020,15500.0,0,0.0
+TX-90033,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 12.500,None,Dki Jakarta,2026-06-15 20:26:32.253074,12500.0,0,0.0
+TX-90091,Bango Kecap Manis Refill 520ml,Foods,Rp 15.500,850,Dki Jakarta,2026-06-17 20:26:32.253106,15500.0,850,13175000.0
+TX-90072,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 4.000,850,Gresik,2026-06-21 20:26:32.253132,4000.0,850,3400000.0
+TX-90077,Roma Kelapa Biscuit 300g,Foods,Rp 12.500,"1,250",Bandung,2026-06-20 20:26:32.253157,12500.0,1250,15625000.0
+TX-90111,Kahf Face Wash Oil Control 100ml,Paragon,Rp 27.000,430,Surabaya,2026-06-10 20:26:32.253182,27000.0,430,11610000.0
+TX-90035,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp35.000,600,Gresik,2026-06-25 20:26:32.253207,35000.0,600,21000000.0
+TX-90041,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 12.500,150,Medan,2026-06-07 20:26:32.253232,12500.0,150,1875000.0
+TX-90106,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 4.000,150,Bandung,2026-06-19 20:26:32.253258,4000.0,150,600000.0
+TX-90083,Teh Pucuk Harum 350ml BARU,Foods,Rp 45.000,None,Bandung,2026-06-19 20:26:32.253289,45000.0,0,0.0
+TX-90028,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 12.500,None,Surabaya,2026-06-01 20:26:32.253317,12500.0,0,0.0
+TX-90047,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 12.500,2.100,Gresik,2026-06-25 20:26:32.253342,12500.0,2100,26250000.0
+TX-90120,Wardah Lightening Day Cream 20ml,Paragon,Rp35.000,None,Surabaya,2026-05-30 20:26:32.253367,35000.0,0,0.0
+TX-90014,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 45.000,0,Bandung,2026-06-02 20:26:32.253392,45000.0,0,0.0
+TX-90094,Teh Pucuk Harum 350ml BARU,Foods,Rp 45.000,850,National Trade,2026-06-18 20:26:32.253417,45000.0,850,38250000.0
+TX-90020,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 12.500,0,Dki Jakarta,2026-06-14 20:26:32.253442,12500.0,0,0.0
+TX-90101,Bango Kecap Manis Refill 520ml,Foods,Rp 27.000,600,Surabaya,2026-06-22 20:26:32.253467,27000.0,600,16200000.0
+TX-90015,Wardah Lightening Day Cream 20ml,Paragon,Rp 4.000,150,Dki Jakarta,2026-06-07 20:26:32.253493,4000.0,150,600000.0
+TX-90013,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 18.500,"1,250",Medan,2026-06-26 20:26:32.253517,18500.0,1250,23125000.0
+TX-90074,Kahf Face Wash Oil Control 100ml,Paragon,Rp 12.500,600,Dki Jakarta,2026-06-24 20:26:32.253542,12500.0,600,7500000.0
+TX-90016,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 27.000,430,Medan,2026-06-18 20:26:32.253567,27000.0,430,11610000.0
+TX-90064,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 45.000,0,Dki Jakarta,2026-06-17 20:26:32.253592,45000.0,0,0.0
+TX-90113,Bango Kecap Manis Refill 520ml,Foods,null,0,Dki Jakarta,2026-06-11 20:26:32.253617,23909.90990990991,0,0.0
+TX-90099,Bango Kecap Manis Refill 520ml,Foods,null,None,Surabaya,2026-06-17 20:26:32.253643,23909.90990990991,0,0.0
+TX-90084,Teh Pucuk Harum 350ml BARU,Foods,Rp 18.500,600,Medan,2026-06-02 20:26:32.253669,18500.0,600,11100000.0
+TX-90114,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 27.000,430,Surabaya,2026-06-14 20:26:32.253694,27000.0,430,11610000.0
+TX-90026,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,430,Dki Jakarta,2026-06-05 20:26:32.253719,12500.0,430,5375000.0
+TX-90047,Wardah Lightening Day Cream 20ml,Paragon,Rp 4.000,150,Dki Jakarta,2026-06-14 20:26:32.253743,4000.0,150,600000.0
+TX-90043,Wardah Lightening Day Cream 20ml,Paragon,Rp 15.500,150,National Trade,2026-06-13 20:26:32.253769,15500.0,150,2325000.0
+TX-90033,Bango Kecap Manis Refill 520ml,Foods,Rp35.000,None,Surabaya,2026-06-19 20:26:32.253817,35000.0,0,0.0
+TX-90054,Teh Pucuk Harum 350ml BARU,Foods,Rp 27.000,430,Gresik,2026-06-08 20:26:32.253843,27000.0,430,11610000.0
+TX-90065,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,600,Surabaya,2026-06-12 20:26:32.253869,12500.0,600,7500000.0
+TX-90096,Kahf Face Wash Oil Control 100ml,Paragon,null,600,Gresik,2026-06-07 20:26:32.253894,20132.352941176472,600,12079411.764705883
+TX-90003,Teh Pucuk Harum 350ml BARU,Foods,Rp 45.000,430,Bandung,2026-06-15 20:26:32.253919,45000.0,430,19350000.0
+TX-90052,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,null,850,Bandung,2026-06-01 20:26:32.253943,21222.727272727272,850,18039318.18181818
+TX-90080,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 27.000,None,National Trade,2026-06-28 20:26:32.254000,27000.0,0,0.0
+TX-90091,Teh Pucuk Harum 350ml BARU,Foods,Rp 12.500,"1,250",Dki Jakarta,2026-06-26 20:26:32.254027,12500.0,1250,15625000.0
+TX-90001,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp35.000,2.100,Dki Jakarta,2026-06-22 20:26:32.254052,35000.0,2100,73500000.0
+TX-90095,Teh Pucuk Harum 350ml BARU,Foods,Rp 4.000,0,Gresik,2026-06-12 20:26:32.254082,4000.0,0,0.0
+TX-90076,Teh Pucuk Harum 350ml BARU,Foods,Rp 4.000,2.100,National Trade,2026-06-12 20:26:32.254108,4000.0,2100,8400000.0
+TX-90001,Bango Kecap Manis Refill 520ml,Foods,Rp 12.500,150,Dki Jakarta,2026-06-06 20:26:32.254134,12500.0,150,1875000.0
+TX-90061,Roma Kelapa Biscuit 300g,Foods,Rp 45.000,None,Dki Jakarta,2026-06-23 20:26:32.254158,45000.0,0,0.0
+TX-90095,Wardah Lightening Day Cream 20ml,Paragon,Rp 12.500,"1,250",Surabaya,2026-06-27 20:26:32.254194,12500.0,1250,15625000.0
+TX-90030,Wardah Lightening Day Cream 20ml,Paragon,null,None,National Trade,2026-06-29 20:26:32.254300,22734.782608695652,0,0.0
+TX-90032,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 15.500,None,Dki Jakarta,2026-06-23 20:26:32.254346,15500.0,0,0.0
+TX-90099,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,null,150,Bandung,2026-06-05 20:26:32.254396,21519.04761904762,150,3227857.1428571427
+TX-90120,Bango Kecap Manis Refill 520ml,Foods,Rp 12.500,2.100,Bandung,2026-06-13 20:26:32.254442,12500.0,2100,26250000.0
+TX-90109,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp35.000,"1,250",Bandung,2026-06-22 20:26:32.254487,35000.0,1250,43750000.0
+TX-90031,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,850,Medan,2026-06-12 20:26:32.254533,12500.0,850,10625000.0
+TX-90011,Roma Kelapa Biscuit 300g,Foods,Rp 27.000,None,Surabaya,2026-06-01 20:26:32.254588,27000.0,0,0.0
+TX-90099,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 27.000,0,Surabaya,2026-06-15 20:26:32.254643,27000.0,0,0.0
+TX-90114,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp35.000,2.100,Gresik,2026-06-19 20:26:32.254689,35000.0,2100,73500000.0
+TX-90020,Kahf Face Wash Oil Control 100ml,Paragon,Rp 45.000,0,Gresik,2026-06-09 20:26:32.254739,45000.0,0,0.0
+TX-90031,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 18.500,2.100,Gresik,2026-06-03 20:26:32.254787,18500.0,2100,38850000.0
+TX-90051,Bango Kecap Manis Refill 520ml,Foods,Rp 12.500,2.100,National Trade,2026-06-04 20:26:32.254836,12500.0,2100,26250000.0
+TX-90098,Bango Kecap Manis Refill 520ml,Foods,Rp 27.000,"1,250",National Trade,2026-06-06 20:26:32.255019,27000.0,1250,33750000.0
+TX-90092,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 15.500,0,Medan,2026-06-26 20:26:32.255080,15500.0,0,0.0
+TX-90049,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 18.500,150,Surabaya,2026-06-15 20:26:32.255110,18500.0,150,2775000.0
+TX-90095,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp35.000,"1,250",Bandung,2026-06-16 20:26:32.255135,35000.0,1250,43750000.0
+TX-90016,Wardah Lightening Day Cream 20ml,Paragon,Rp 45.000,600,Bandung,2026-06-24 20:26:32.255186,45000.0,600,27000000.0
+TX-90110,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 27.000,600,Dki Jakarta,2026-06-02 20:26:32.255248,27000.0,600,16200000.0
+TX-90047,Roma Kelapa Biscuit 300g,Foods,Rp 12.500,150,National Trade,2026-06-05 20:26:32.255276,12500.0,150,1875000.0
+TX-90002,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 12.500,"1,250",Bandung,2026-06-23 20:26:32.255300,12500.0,1250,15625000.0
+TX-90012,Bango Kecap Manis Refill 520ml,Foods,Rp 12.500,None,Medan,2026-06-06 20:26:32.255325,12500.0,0,0.0
+TX-90073,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 4.000,2.100,Dki Jakarta,2026-06-24 20:26:32.255350,4000.0,2100,8400000.0
+TX-90011,Bango Kecap Manis Refill 520ml,Foods,Rp 27.000,600,Bandung,2026-06-20 20:26:32.255374,27000.0,600,16200000.0
+TX-90067,Teh Pucuk Harum 350ml BARU,Foods,Rp 12.500,None,Gresik,2026-06-20 20:26:32.255398,12500.0,0,0.0
+TX-90001,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 45.000,0,Gresik,2026-06-13 20:26:32.255448,45000.0,0,0.0
+TX-90022,Wardah Lightening Day Cream 20ml,Paragon,null,None,Surabaya,2026-06-03 20:26:32.255473,22734.782608695652,0,0.0
+TX-90024,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,null,600,Surabaya,2026-06-27 20:26:32.255497,21089.04109589041,600,12653424.657534245
+TX-90112,Teh Pucuk Harum 350ml BARU,Foods,null,430,National Trade,2026-05-30 20:26:32.255628,21935.483870967742,430,9432258.064516129
+TX-90051,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 45.000,600,Bandung,2026-06-24 20:26:32.255661,45000.0,600,27000000.0
+TX-90019,Teh Pucuk Harum 350ml BARU,Foods,Rp35.000,0,Dki Jakarta,2026-06-15 20:26:32.255688,35000.0,0,0.0
+TX-90074,Bango Kecap Manis Refill 520ml,Foods,Rp35.000,600,Dki Jakarta,2026-05-31 20:26:32.255712,35000.0,600,21000000.0
+TX-90099,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,null,150,Surabaya,2026-06-21 20:26:32.255739,23746.031746031746,150,3561904.7619047617
+TX-90070,Teh Pucuk Harum 350ml BARU,Foods,Rp35.000,600,Gresik,2026-06-19 20:26:32.255764,35000.0,600,21000000.0
+TX-90050,Roma Kelapa Biscuit 300g,Foods,Rp 12.500,None,Dki Jakarta,2026-06-14 20:26:32.255790,12500.0,0,0.0
+TX-90090,Kahf Face Wash Oil Control 100ml,Paragon,Rp 45.000,None,Surabaya,2026-06-20 20:26:32.255816,45000.0,0,0.0
+TX-90110,Kahf Face Wash Oil Control 100ml,Paragon,null,2.100,Bandung,2026-06-15 20:26:32.255840,20132.352941176472,2100,42277941.17647059
+TX-90118,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp35.000,"1,250",Dki Jakarta,2026-06-11 20:26:32.255864,35000.0,1250,43750000.0
+TX-90009,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 18.500,0,Dki Jakarta,2026-06-27 20:26:32.255888,18500.0,0,0.0
+TX-90093,Bango Kecap Manis Refill 520ml,Foods,Rp 27.000,None,Dki Jakarta,2026-06-13 20:26:32.255914,27000.0,0,0.0
+TX-90100,Wardah Lightening Day Cream 20ml,Paragon,Rp 27.000,0,Medan,2026-06-20 20:26:32.255945,27000.0,0,0.0
+TX-90108,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp35.000,600,Surabaya,2026-06-15 20:26:32.255971,35000.0,600,21000000.0
+TX-90091,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 4.000,150,Surabaya,2026-06-10 20:26:32.255996,4000.0,150,600000.0
+TX-90083,Kahf Face Wash Oil Control 100ml,Paragon,null,None,Dki Jakarta,2026-06-02 20:26:32.256021,20132.352941176472,0,0.0
+TX-90058,Bango Kecap Manis Refill 520ml,Foods,Rp35.000,"1,250",Gresik,2026-06-26 20:26:32.256077,35000.0,1250,43750000.0
+TX-90080,Teh Pucuk Harum 350ml BARU,Foods,Rp 45.000,2.100,National Trade,2026-06-13 20:26:32.256169,45000.0,2100,94500000.0
+TX-90107,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 27.000,430,Gresik,2026-06-24 20:26:32.256262,27000.0,430,11610000.0
+TX-90094,Wardah Lightening Day Cream 20ml,Paragon,Rp 27.000,None,Dki Jakarta,2026-06-09 20:26:32.256322,27000.0,0,0.0
+TX-90092,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,null,850,Dki Jakarta,2026-06-07 20:26:32.256377,21222.727272727272,850,18039318.18181818
+TX-90102,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,150,Dki Jakarta,2026-06-08 20:26:32.256430,12500.0,150,1875000.0
+TX-90005,Teh Pucuk Harum 350ml BARU,Foods,Rp 27.000,600,Bandung,2026-06-25 20:26:32.256488,27000.0,600,16200000.0
+TX-90098,Wardah Lightening Day Cream 20ml,Paragon,Rp 4.000,150,National Trade,2026-06-23 20:26:32.256548,4000.0,150,600000.0
+TX-90034,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 18.500,None,Bandung,2026-06-24 20:26:32.256614,18500.0,0,0.0
+TX-90035,Wardah Lightening Day Cream 20ml,Paragon,Rp 45.000,850,Dki Jakarta,2026-06-29 20:26:32.256682,45000.0,850,38250000.0
+TX-90054,Kahf Face Wash Oil Control 100ml,Paragon,null,"1,250",National Trade,2026-06-02 20:26:32.256741,20132.352941176472,1250,25165441.17647059
+TX-90119,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 27.000,600,Bandung,2026-06-14 20:26:32.256798,27000.0,600,16200000.0
+TX-90066,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 45.000,600,Bandung,2026-06-17 20:26:32.256845,45000.0,600,27000000.0
+TX-90064,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,2.100,Surabaya,2026-06-13 20:26:32.256890,12500.0,2100,26250000.0
+TX-90100,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 45.000,430,National Trade,2026-06-25 20:26:32.256941,45000.0,430,19350000.0
+TX-90036,Kahf Face Wash Oil Control 100ml,Paragon,Rp 12.500,150,Gresik,2026-06-06 20:26:32.257038,12500.0,150,1875000.0
+TX-90038,Bango Kecap Manis Refill 520ml,Foods,null,None,Surabaya,2026-06-22 20:26:32.257229,23909.90990990991,0,0.0
+TX-90118,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 15.500,850,Surabaya,2026-06-14 20:26:32.257307,15500.0,850,13175000.0
+TX-90015,Roma Kelapa Biscuit 300g,Foods,Rp 15.500,150,Surabaya,2026-06-07 20:26:32.257359,15500.0,150,2325000.0
+TX-90100,Teh Pucuk Harum 350ml BARU,Foods,Rp 12.500,2.100,Surabaya,2026-06-25 20:26:32.257415,12500.0,2100,26250000.0
+TX-90049,Wardah Lightening Day Cream 20ml,Paragon,Rp 15.500,430,Bandung,2026-06-14 20:26:32.257510,15500.0,430,6665000.0
+TX-90042,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 4.000,None,Bandung,2026-06-25 20:26:32.257590,4000.0,0,0.0
+TX-90106,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,null,None,Surabaya,2026-06-08 20:26:32.257722,21519.04761904762,0,0.0
+TX-90030,Roma Kelapa Biscuit 300g,Foods,Rp 12.500,None,Medan,2026-06-09 20:26:32.257831,12500.0,0,0.0
+TX-90060,Roma Kelapa Biscuit 300g,Foods,Rp 15.500,None,Dki Jakarta,2026-06-27 20:26:32.257967,15500.0,0,0.0
+TX-90088,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 4.000,430,Gresik,2026-06-09 20:26:32.258022,4000.0,430,1720000.0
+TX-90059,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 45.000,"1,250",Bandung,2026-06-26 20:26:32.258074,45000.0,1250,56250000.0
+TX-90072,Kahf Face Wash Oil Control 100ml,Paragon,Rp 18.500,850,Surabaya,2026-06-11 20:26:32.258126,18500.0,850,15725000.0
+TX-90009,Roma Kelapa Biscuit 300g,Foods,null,430,Dki Jakarta,2026-06-22 20:26:32.258178,22432.7731092437,430,9646092.43697479
+TX-90019,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp35.000,None,Dki Jakarta,2026-06-06 20:26:32.258238,35000.0,0,0.0
+TX-90055,Bango Kecap Manis Refill 520ml,Foods,Rp 27.000,2.100,Surabaya,2026-06-04 20:26:32.258300,27000.0,2100,56700000.0
+TX-90056,Roma Kelapa Biscuit 300g,Foods,Rp 15.500,150,National Trade,2026-06-03 20:26:32.258366,15500.0,150,2325000.0
+TX-90042,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,null,850,Dki Jakarta,2026-06-24 20:26:32.258417,21222.727272727272,850,18039318.18181818
+TX-90048,Bango Kecap Manis Refill 520ml,Foods,null,430,Dki Jakarta,2026-06-20 20:26:32.258464,23909.90990990991,430,10281261.261261262
+TX-90090,Bango Kecap Manis Refill 520ml,Foods,Rp 4.000,0,Bandung,2026-06-10 20:26:32.258524,4000.0,0,0.0
+TX-90112,Bango Kecap Manis Refill 520ml,Foods,Rp 45.000,"1,250",Dki Jakarta,2026-06-27 20:26:32.258586,45000.0,1250,56250000.0
+TX-90047,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 18.500,850,Gresik,2026-06-23 20:26:32.258698,18500.0,850,15725000.0
+TX-90016,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp35.000,None,Bandung,2026-06-08 20:26:32.258748,35000.0,0,0.0
+TX-90114,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,null,0,Bandung,2026-06-03 20:26:32.258797,21519.04761904762,0,0.0
+TX-90096,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 12.500,2.100,Bandung,2026-06-02 20:26:32.258888,12500.0,2100,26250000.0
+TX-90004,Bango Kecap Manis Refill 520ml,Foods,Rp 15.500,None,Dki Jakarta,2026-06-17 20:26:32.258949,15500.0,0,0.0
+TX-90014,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 12.500,430,Gresik,2026-05-30 20:26:32.259005,12500.0,430,5375000.0
+TX-90012,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 18.500,600,Bandung,2026-06-26 20:26:32.259064,18500.0,600,11100000.0
+TX-90006,Kahf Face Wash Oil Control 100ml,Paragon,Rp 27.000,None,Gresik,2026-06-05 20:26:32.259123,27000.0,0,0.0
+TX-90100,Roma Kelapa Biscuit 300g,Foods,Rp 27.000,600,Dki Jakarta,2026-06-28 20:26:32.259200,27000.0,600,16200000.0
+TX-90032,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,850,Medan,2026-06-07 20:26:32.259263,12500.0,850,10625000.0
+TX-90082,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 45.000,"1,250",Medan,2026-06-27 20:26:32.259324,45000.0,1250,56250000.0
+TX-90092,Wardah Lightening Day Cream 20ml,Paragon,Rp35.000,2.100,Gresik,2026-06-07 20:26:32.259393,35000.0,2100,73500000.0
+TX-90038,Kahf Face Wash Oil Control 100ml,Paragon,null,850,Dki Jakarta,2026-06-26 20:26:32.259501,20132.352941176472,850,17112500.0
+TX-90055,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,null,150,Surabaya,2026-06-06 20:26:32.259574,21089.04109589041,150,3163356.1643835614
+TX-90025,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 15.500,430,Dki Jakarta,2026-06-03 20:26:32.259640,15500.0,430,6665000.0
+TX-90071,Teh Pucuk Harum 350ml BARU,Foods,Rp 27.000,"1,250",Dki Jakarta,2026-06-22 20:26:32.259696,27000.0,1250,33750000.0
+TX-90008,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 45.000,600,Dki Jakarta,2026-06-15 20:26:32.259750,45000.0,600,27000000.0
+TX-90084,Kahf Face Wash Oil Control 100ml,Paragon,Rp 27.000,430,Gresik,2026-06-23 20:26:32.259808,27000.0,430,11610000.0
+TX-90084,Wardah Lightening Day Cream 20ml,Paragon,Rp 45.000,None,Bandung,2026-06-24 20:26:32.259885,45000.0,0,0.0
+TX-90058,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 27.000,0,Dki Jakarta,2026-06-02 20:26:32.259948,27000.0,0,0.0
+TX-90070,Roma Kelapa Biscuit 300g,Foods,Rp 15.500,2.100,Gresik,2026-06-21 20:26:32.260003,15500.0,2100,32550000.0
+TX-90113,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 18.500,430,Medan,2026-06-16 20:26:32.260111,18500.0,430,7955000.0
+TX-90017,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,null,None,Dki Jakarta,2026-06-17 20:26:32.260170,21519.04761904762,0,0.0
+TX-90042,Kahf Face Wash Oil Control 100ml,Paragon,Rp35.000,430,Dki Jakarta,2026-06-21 20:26:32.260237,35000.0,430,15050000.0
+TX-90036,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 27.000,0,Dki Jakarta,2026-06-10 20:26:32.260299,27000.0,0,0.0
+TX-90109,Wardah Lightening Day Cream 20ml,Paragon,Rp 18.500,850,Dki Jakarta,2026-05-30 20:26:32.260356,18500.0,850,15725000.0
+TX-90091,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp35.000,150,Dki Jakarta,2026-06-07 20:26:32.260479,35000.0,150,5250000.0
+TX-90091,Wardah Lightening Day Cream 20ml,Paragon,null,2.100,Bandung,2026-06-04 20:26:32.260542,22734.782608695652,2100,47743043.47826087
+TX-90067,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,600,Dki Jakarta,2026-05-31 20:26:32.260600,12500.0,600,7500000.0
+TX-90084,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,"1,250",Surabaya,2026-06-14 20:26:32.260654,12500.0,1250,15625000.0
+TX-90067,Kahf Face Wash Oil Control 100ml,Paragon,Rp 4.000,430,Bandung,2026-06-06 20:26:32.260709,4000.0,430,1720000.0
+TX-90053,Bango Kecap Manis Refill 520ml,Foods,Rp 27.000,850,Gresik,2026-06-03 20:26:32.260912,27000.0,850,22950000.0
+TX-90027,Kahf Face Wash Oil Control 100ml,Paragon,Rp 15.500,None,Gresik,2026-06-08 20:26:32.260977,15500.0,0,0.0
+TX-90093,Kahf Face Wash Oil Control 100ml,Paragon,Rp 27.000,None,Dki Jakarta,2026-06-08 20:26:32.261023,27000.0,0,0.0
+TX-90085,Teh Pucuk Harum 350ml BARU,Foods,Rp 12.500,0,Dki Jakarta,2026-06-09 20:26:32.261067,12500.0,0,0.0
+TX-90120,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 27.000,850,Gresik,2026-06-22 20:26:32.261131,27000.0,850,22950000.0
+TX-90064,Kahf Face Wash Oil Control 100ml,Paragon,Rp 12.500,2.100,Medan,2026-05-30 20:26:32.261764,12500.0,2100,26250000.0
+TX-90078,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 18.500,"1,250",Surabaya,2026-06-01 20:26:32.261838,18500.0,1250,23125000.0
+TX-90076,Kahf Face Wash Oil Control 100ml,Paragon,Rp 4.000,600,Bandung,2026-06-08 20:26:32.261922,4000.0,600,2400000.0
+TX-90084,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 12.500,150,Medan,2026-06-10 20:26:32.261993,12500.0,150,1875000.0
+TX-90032,Teh Pucuk Harum 350ml BARU,Foods,Rp 4.000,430,Surabaya,2026-06-01 20:26:32.262062,4000.0,430,1720000.0
+TX-90021,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp35.000,850,Dki Jakarta,2026-06-19 20:26:32.262132,35000.0,850,29750000.0
+TX-90081,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 15.500,600,Dki Jakarta,2026-06-14 20:26:32.262205,15500.0,600,9300000.0
+TX-90118,Wardah Lightening Day Cream 20ml,Paragon,Rp 4.000,150,National Trade,2026-06-08 20:26:32.262272,4000.0,150,600000.0
+TX-90088,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp35.000,600,Dki Jakarta,2026-06-01 20:26:32.262423,35000.0,600,21000000.0
+TX-90055,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,2.100,National Trade,2026-06-04 20:26:32.262533,12500.0,2100,26250000.0
+TX-90011,Teh Pucuk Harum 350ml BARU,Foods,Rp 4.000,150,Surabaya,2026-05-31 20:26:32.262585,4000.0,150,600000.0
+TX-90112,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 4.000,600,National Trade,2026-06-13 20:26:32.262672,4000.0,600,2400000.0
+TX-90058,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 4.000,None,Gresik,2026-06-26 20:26:32.262752,4000.0,0,0.0
+TX-90074,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp35.000,150,Dki Jakarta,2026-06-25 20:26:32.262815,35000.0,150,5250000.0
+TX-90013,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,600,Dki Jakarta,2026-06-22 20:26:32.262869,12500.0,600,7500000.0
+TX-90010,Teh Pucuk Harum 350ml BARU,Foods,Rp 27.000,2.100,Dki Jakarta,2026-06-23 20:26:32.262924,27000.0,2100,56700000.0
+TX-90080,Roma Kelapa Biscuit 300g,Foods,Rp 27.000,150,National Trade,2026-06-15 20:26:32.263033,27000.0,150,4050000.0
+TX-90023,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 4.000,850,Dki Jakarta,2026-06-08 20:26:32.263231,4000.0,850,3400000.0
+TX-90052,Teh Pucuk Harum 350ml BARU,Foods,Rp 15.500,150,Dki Jakarta,2026-06-02 20:26:32.263325,15500.0,150,2325000.0
+TX-90057,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 18.500,430,Dki Jakarta,2026-06-12 20:26:32.263371,18500.0,430,7955000.0
+TX-90006,Roma Kelapa Biscuit 300g,Foods,Rp 45.000,600,Dki Jakarta,2026-06-08 20:26:32.263415,45000.0,600,27000000.0
+TX-90034,Kahf Face Wash Oil Control 100ml,Paragon,Rp 12.500,"1,250",Dki Jakarta,2026-06-24 20:26:32.263459,12500.0,1250,15625000.0
+TX-90098,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 15.500,2.100,Dki Jakarta,2026-06-19 20:26:32.263504,15500.0,2100,32550000.0
+TX-90008,Roma Kelapa Biscuit 300g,Foods,Rp 18.500,0,Dki Jakarta,2026-06-11 20:26:32.263550,18500.0,0,0.0
+TX-90061,Teh Pucuk Harum 350ml BARU,Foods,Rp35.000,"1,250",Bandung,2026-06-10 20:26:32.263607,35000.0,1250,43750000.0
+TX-90035,Roma Kelapa Biscuit 300g,Foods,Rp 15.500,850,Surabaya,2026-06-08 20:26:32.263722,15500.0,850,13175000.0
+TX-90026,Bango Kecap Manis Refill 520ml,Foods,null,600,Bandung,2026-06-01 20:26:32.263773,23909.90990990991,600,14345945.945945946
+TX-90007,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 4.000,150,Bandung,2026-06-26 20:26:32.263820,4000.0,150,600000.0
+TX-90080,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 15.500,600,Surabaya,2026-06-26 20:26:32.263870,15500.0,600,9300000.0
+TX-90071,Kahf Face Wash Oil Control 100ml,Paragon,Rp35.000,150,Surabaya,2026-06-08 20:26:32.264041,35000.0,150,5250000.0
+TX-90056,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp35.000,850,Bandung,2026-06-01 20:26:32.264090,35000.0,850,29750000.0
+TX-90116,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 18.500,600,Surabaya,2026-06-21 20:26:32.264147,18500.0,600,11100000.0
+TX-90020,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 45.000,"1,250",Gresik,2026-05-31 20:26:32.264214,45000.0,1250,56250000.0
+TX-90064,Wardah Lightening Day Cream 20ml,Paragon,Rp35.000,600,Surabaya,2026-06-25 20:26:32.264328,35000.0,600,21000000.0
+TX-90074,Teh Pucuk Harum 350ml BARU,Foods,Rp 27.000,150,National Trade,2026-06-07 20:26:32.264383,27000.0,150,4050000.0
+TX-90117,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,null,600,Gresik,2026-06-06 20:26:32.264431,21089.04109589041,600,12653424.657534245
+TX-90075,Teh Pucuk Harum 350ml BARU,Foods,Rp 12.500,2.100,Dki Jakarta,2026-06-07 20:26:32.264483,12500.0,2100,26250000.0
+TX-90072,Bango Kecap Manis Refill 520ml,Foods,Rp 18.500,150,Bandung,2026-06-21 20:26:32.264538,18500.0,150,2775000.0
+TX-90110,Bango Kecap Manis Refill 520ml,Foods,Rp 15.500,"1,250",Medan,2026-06-08 20:26:32.264597,15500.0,1250,19375000.0
+TX-90019,Bango Kecap Manis Refill 520ml,Foods,Rp 12.500,430,Dki Jakarta,2026-06-20 20:26:32.264649,12500.0,430,5375000.0
+TX-90119,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 27.000,"1,250",Medan,2026-06-06 20:26:32.264702,27000.0,1250,33750000.0
+TX-90115,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp35.000,2.100,Bandung,2026-06-04 20:26:32.264799,35000.0,2100,73500000.0
+TX-90116,Wardah Lightening Day Cream 20ml,Paragon,Rp 27.000,150,Bandung,2026-06-15 20:26:32.264858,27000.0,150,4050000.0
+TX-90075,Wardah Lightening Day Cream 20ml,Paragon,Rp 15.500,"1,250",Dki Jakarta,2026-06-03 20:26:32.264913,15500.0,1250,19375000.0
+TX-90021,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp35.000,430,Gresik,2026-05-30 20:26:32.264972,35000.0,430,15050000.0
+TX-90020,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 27.000,None,Gresik,2026-06-07 20:26:32.265026,27000.0,0,0.0
+TX-90088,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 4.000,850,Dki Jakarta,2026-06-03 20:26:32.265077,4000.0,850,3400000.0
+TX-90025,Wardah Lightening Day Cream 20ml,Paragon,Rp 18.500,2.100,Dki Jakarta,2026-06-07 20:26:32.265131,18500.0,2100,38850000.0
+TX-90053,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 18.500,None,Bandung,2026-06-23 20:26:32.265189,18500.0,0,0.0
+TX-90083,Wardah Lightening Day Cream 20ml,Paragon,null,None,Dki Jakarta,2026-06-19 20:26:32.265309,22734.782608695652,0,0.0
+TX-90013,Kahf Face Wash Oil Control 100ml,Paragon,Rp 15.500,2.100,Bandung,2026-06-29 20:26:32.265371,15500.0,2100,32550000.0
+TX-90082,Roma Kelapa Biscuit 300g,Foods,null,2.100,Bandung,2026-06-04 20:26:32.265425,22432.7731092437,2100,47108823.52941177
+TX-90035,Bango Kecap Manis Refill 520ml,Foods,Rp 12.500,"1,250",Bandung,2026-06-03 20:26:32.265477,12500.0,1250,15625000.0
+TX-90062,Roma Kelapa Biscuit 300g,Foods,Rp 4.000,850,National Trade,2026-05-30 20:26:32.265530,4000.0,850,3400000.0
+TX-90023,Kahf Face Wash Oil Control 100ml,Paragon,Rp 12.500,None,Bandung,2026-06-06 20:26:32.265588,12500.0,0,0.0
+TX-90058,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 27.000,2.100,Bandung,2026-06-02 20:26:32.265647,27000.0,2100,56700000.0
+TX-90011,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 4.000,None,Bandung,2026-06-15 20:26:32.265700,4000.0,0,0.0
+TX-90089,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 18.500,2.100,Surabaya,2026-06-16 20:26:32.265768,18500.0,2100,38850000.0
+TX-90091,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 45.000,"1,250",Bandung,2026-06-14 20:26:32.265826,45000.0,1250,56250000.0
+TX-90109,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 12.500,None,Medan,2026-06-04 20:26:32.265878,12500.0,0,0.0
+TX-90063,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 27.000,430,National Trade,2026-06-28 20:26:32.265930,27000.0,430,11610000.0
+TX-90037,Wardah Lightening Day Cream 20ml,Paragon,Rp 18.500,150,Surabaya,2026-06-26 20:26:32.265979,18500.0,150,2775000.0
+TX-90109,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp35.000,None,Bandung,2026-06-17 20:26:32.266025,35000.0,0,0.0
+TX-90012,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 45.000,850,Surabaya,2026-06-10 20:26:32.266073,45000.0,850,38250000.0
+TX-90005,Kahf Face Wash Oil Control 100ml,Paragon,Rp 4.000,2.100,Dki Jakarta,2026-06-07 20:26:32.266123,4000.0,2100,8400000.0
+TX-90080,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 12.500,600,Bandung,2026-06-29 20:26:32.266171,12500.0,600,7500000.0
+TX-90119,Wardah Lightening Day Cream 20ml,Paragon,Rp 12.500,850,Bandung,2026-06-20 20:26:32.266219,12500.0,850,10625000.0
+TX-90040,Roma Kelapa Biscuit 300g,Foods,Rp 15.500,850,Dki Jakarta,2026-06-05 20:26:32.266268,15500.0,850,13175000.0
+TX-90088,Bango Kecap Manis Refill 520ml,Foods,Rp 4.000,150,Medan,2026-06-17 20:26:32.266318,4000.0,150,600000.0
+TX-90071,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 27.000,0,Dki Jakarta,2026-06-20 20:26:32.266374,27000.0,0,0.0
+TX-90031,Kahf Face Wash Oil Control 100ml,Paragon,Rp 27.000,430,Medan,2026-06-04 20:26:32.266424,27000.0,430,11610000.0
+TX-90083,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 18.500,2.100,Bandung,2026-06-04 20:26:32.266473,18500.0,2100,38850000.0
+TX-90007,Teh Pucuk Harum 350ml BARU,Foods,Rp 4.000,430,Gresik,2026-06-18 20:26:32.266526,4000.0,430,1720000.0
+TX-90108,Bango Kecap Manis Refill 520ml,Foods,Rp 45.000,430,Bandung,2026-05-30 20:26:32.266575,45000.0,430,19350000.0
+TX-90017,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 45.000,150,Dki Jakarta,2026-06-05 20:26:32.266628,45000.0,150,6750000.0
+TX-90113,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 12.500,0,Dki Jakarta,2026-06-29 20:26:32.267086,12500.0,0,0.0
+TX-90108,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 45.000,"1,250",Dki Jakarta,2026-06-05 20:26:32.267142,45000.0,1250,56250000.0
+TX-90023,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 4.000,2.100,National Trade,2026-06-22 20:26:32.267201,4000.0,2100,8400000.0
+TX-90046,Wardah Lightening Day Cream 20ml,Paragon,null,2.100,Bandung,2026-06-24 20:26:32.267250,22734.782608695652,2100,47743043.47826087
+TX-90068,Roma Kelapa Biscuit 300g,Foods,Rp35.000,0,Bandung,2026-06-04 20:26:32.267312,35000.0,0,0.0
+TX-90079,Wardah Lightening Day Cream 20ml,Paragon,Rp 4.000,850,Surabaya,2026-06-29 20:26:32.267364,4000.0,850,3400000.0
+TX-90067,Wardah Lightening Day Cream 20ml,Paragon,Rp 27.000,430,Bandung,2026-06-25 20:26:32.267419,27000.0,430,11610000.0
+TX-90021,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 18.500,600,National Trade,2026-06-09 20:26:32.267487,18500.0,600,11100000.0
+TX-90053,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 4.000,850,Dki Jakarta,2026-06-06 20:26:32.267888,4000.0,850,3400000.0
+TX-90061,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 4.000,850,Bandung,2026-06-07 20:26:32.267974,4000.0,850,3400000.0
+TX-90096,Teh Pucuk Harum 350ml BARU,Foods,Rp35.000,0,Dki Jakarta,2026-06-03 20:26:32.268145,35000.0,0,0.0
+TX-90085,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 27.000,430,National Trade,2026-06-29 20:26:32.268189,27000.0,430,11610000.0
+TX-90105,Roma Kelapa Biscuit 300g,Foods,Rp 4.000,150,Medan,2026-06-11 20:26:32.268268,4000.0,150,600000.0
+TX-90054,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 27.000,600,Dki Jakarta,2026-06-27 20:26:32.268386,27000.0,600,16200000.0
+TX-90115,Bango Kecap Manis Refill 520ml,Foods,Rp 12.500,600,Surabaya,2026-05-31 20:26:32.268425,12500.0,600,7500000.0
+TX-90020,Teh Pucuk Harum 350ml BARU,Foods,Rp 27.000,None,Gresik,2026-06-16 20:26:32.268462,27000.0,0,0.0
+TX-90089,Bango Kecap Manis Refill 520ml,Foods,null,850,Dki Jakarta,2026-06-29 20:26:32.268504,23909.90990990991,850,20323423.423423424
+TX-90101,Roma Kelapa Biscuit 300g,Foods,Rp 12.500,150,Bandung,2026-06-23 20:26:32.268563,12500.0,150,1875000.0
+TX-90114,Bango Kecap Manis Refill 520ml,Foods,Rp 45.000,150,Bandung,2026-06-15 20:26:32.268699,45000.0,150,6750000.0
+TX-90048,Wardah Lightening Day Cream 20ml,Paragon,Rp 18.500,2.100,Dki Jakarta,2026-05-30 20:26:32.268798,18500.0,2100,38850000.0
+TX-90023,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 18.500,None,Bandung,2026-06-25 20:26:32.269094,18500.0,0,0.0
+TX-90018,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,null,600,Bandung,2026-06-23 20:26:32.269387,23746.031746031746,600,14247619.047619047
+TX-90008,Kahf Face Wash Oil Control 100ml,Paragon,null,0,Gresik,2026-06-13 20:26:32.269455,20132.352941176472,0,0.0
+TX-90037,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 15.500,2.100,Dki Jakarta,2026-06-07 20:26:32.269522,15500.0,2100,32550000.0
+TX-90012,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 18.500,600,Dki Jakarta,2026-06-05 20:26:32.269646,18500.0,600,11100000.0
+TX-90097,Roma Kelapa Biscuit 300g,Foods,Rp 4.000,2.100,Surabaya,2026-06-25 20:26:32.269783,4000.0,2100,8400000.0
+TX-90094,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 27.000,2.100,Dki Jakarta,2026-06-10 20:26:32.270019,27000.0,2100,56700000.0
+TX-90095,Bango Kecap Manis Refill 520ml,Foods,Rp 27.000,600,National Trade,2026-06-10 20:26:32.270137,27000.0,600,16200000.0
+TX-90068,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 45.000,850,Surabaya,2026-06-29 20:26:32.270194,45000.0,850,38250000.0
+TX-90046,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 18.500,430,National Trade,2026-06-17 20:26:32.270247,18500.0,430,7955000.0
+TX-90013,Roma Kelapa Biscuit 300g,Foods,Rp35.000,430,Surabaya,2026-06-19 20:26:32.270295,35000.0,430,15050000.0
+TX-90031,Wardah Lightening Day Cream 20ml,Paragon,Rp35.000,850,Gresik,2026-06-01 20:26:32.270351,35000.0,850,29750000.0
+TX-90001,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 4.000,None,Medan,2026-06-11 20:26:32.270418,4000.0,0,0.0
+TX-90028,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 45.000,600,Dki Jakarta,2026-05-30 20:26:32.270483,45000.0,600,27000000.0
+TX-90049,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 45.000,2.100,Dki Jakarta,2026-06-02 20:26:32.270547,45000.0,2100,94500000.0
+TX-90028,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 4.000,2.100,Medan,2026-06-29 20:26:32.270611,4000.0,2100,8400000.0
+TX-90112,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp35.000,None,Surabaya,2026-06-08 20:26:32.270672,35000.0,0,0.0
+TX-90046,Bango Kecap Manis Refill 520ml,Foods,Rp 12.500,0,Surabaya,2026-05-30 20:26:32.270734,12500.0,0,0.0
+TX-90040,Kahf Face Wash Oil Control 100ml,Paragon,Rp 4.000,850,Gresik,2026-06-17 20:26:32.270829,4000.0,850,3400000.0
+TX-90002,Kahf Face Wash Oil Control 100ml,Paragon,Rp 18.500,850,Medan,2026-06-22 20:26:32.270912,18500.0,850,15725000.0
+TX-90086,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 27.000,850,Gresik,2026-06-19 20:26:32.270979,27000.0,850,22950000.0
+TX-90022,Teh Pucuk Harum 350ml BARU,Foods,Rp 27.000,430,Dki Jakarta,2026-06-13 20:26:32.271134,27000.0,430,11610000.0
+TX-90025,Teh Pucuk Harum 350ml BARU,Foods,Rp 27.000,None,Bandung,2026-06-04 20:26:32.271188,27000.0,0,0.0
+TX-90054,Roma Kelapa Biscuit 300g,Foods,Rp 45.000,430,National Trade,2026-06-04 20:26:32.271252,45000.0,430,19350000.0
+TX-90029,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,null,2.100,Dki Jakarta,2026-06-04 20:26:32.271313,21089.04109589041,2100,44286986.30136986
+TX-90048,Kahf Face Wash Oil Control 100ml,Paragon,Rp 4.000,150,Surabaya,2026-06-22 20:26:32.271399,4000.0,150,600000.0
+TX-90089,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 15.500,600,Dki Jakarta,2026-06-24 20:26:32.271598,15500.0,600,9300000.0
+TX-90013,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 15.500,2.100,Dki Jakarta,2026-06-04 20:26:32.271657,15500.0,2100,32550000.0
+TX-90118,Roma Kelapa Biscuit 300g,Foods,null,2.100,Gresik,2026-06-03 20:26:32.271704,22432.7731092437,2100,47108823.52941177
+TX-90087,Wardah Lightening Day Cream 20ml,Paragon,Rp 18.500,0,Dki Jakarta,2026-06-03 20:26:32.271846,18500.0,0,0.0
+TX-90077,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 4.000,2.100,Surabaya,2026-06-12 20:26:32.271917,4000.0,2100,8400000.0
+TX-90116,Roma Kelapa Biscuit 300g,Foods,Rp 4.000,2.100,Dki Jakarta,2026-06-24 20:26:32.271983,4000.0,2100,8400000.0
+TX-90024,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 4.000,"1,250",Surabaya,2026-05-31 20:26:32.272262,4000.0,1250,5000000.0
+TX-90118,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 12.500,None,Gresik,2026-06-17 20:26:32.272386,12500.0,0,0.0
+TX-90016,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 4.000,430,Surabaya,2026-06-27 20:26:32.272451,4000.0,430,1720000.0
+TX-90077,Teh Pucuk Harum 350ml BARU,Foods,Rp 12.500,850,Dki Jakarta,2026-06-01 20:26:32.272514,12500.0,850,10625000.0
+TX-90046,Teh Pucuk Harum 350ml BARU,Foods,Rp 18.500,2.100,National Trade,2026-06-05 20:26:32.272567,18500.0,2100,38850000.0
+TX-90011,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 12.500,150,Surabaya,2026-06-22 20:26:32.272731,12500.0,150,1875000.0
+TX-90115,Roma Kelapa Biscuit 300g,Foods,Rp 12.500,600,Dki Jakarta,2026-06-16 20:26:32.272838,12500.0,600,7500000.0
+TX-90024,Wardah Lightening Day Cream 20ml,Paragon,Rp 12.500,None,Gresik,2026-06-23 20:26:32.272906,12500.0,0,0.0
+TX-90105,Kahf Face Wash Oil Control 100ml,Paragon,Rp 18.500,2.100,Surabaya,2026-06-08 20:26:32.272974,18500.0,2100,38850000.0
+TX-90027,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 27.000,150,Bandung,2026-06-28 20:26:32.273113,27000.0,150,4050000.0
+TX-90098,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 27.000,600,Dki Jakarta,2026-06-20 20:26:32.273172,27000.0,600,16200000.0
+TX-90001,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 4.000,850,National Trade,2026-06-27 20:26:32.273292,4000.0,850,3400000.0
+TX-90074,Wardah Lightening Day Cream 20ml,Paragon,Rp 27.000,0,Dki Jakarta,2026-06-05 20:26:32.273361,27000.0,0,0.0
+TX-90042,Wardah Lightening Day Cream 20ml,Paragon,Rp 27.000,850,Dki Jakarta,2026-05-31 20:26:32.273423,27000.0,850,22950000.0
+TX-90118,Bango Kecap Manis Refill 520ml,Foods,Rp 4.000,430,Dki Jakarta,2026-06-16 20:26:32.273490,4000.0,430,1720000.0
+TX-90080,Wardah Lightening Day Cream 20ml,Paragon,Rp 45.000,150,National Trade,2026-06-12 20:26:32.273627,45000.0,150,6750000.0
+TX-90067,Roma Kelapa Biscuit 300g,Foods,Rp 18.500,430,Surabaya,2026-06-28 20:26:32.273692,18500.0,430,7955000.0
+TX-90097,Bango Kecap Manis Refill 520ml,Foods,Rp 18.500,150,Dki Jakarta,2026-06-14 20:26:32.273761,18500.0,150,2775000.0
+TX-90103,Teh Pucuk Harum 350ml BARU,Foods,Rp 45.000,None,Dki Jakarta,2026-05-31 20:26:32.273826,45000.0,0,0.0
+TX-90083,Roma Kelapa Biscuit 300g,Foods,Rp 27.000,150,Bandung,2026-05-30 20:26:32.273923,27000.0,150,4050000.0
+TX-90015,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 45.000,None,Medan,2026-06-22 20:26:32.273988,45000.0,0,0.0
+TX-90034,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 12.500,150,Medan,2026-06-09 20:26:32.274130,12500.0,150,1875000.0
+TX-90017,Bango Kecap Manis Refill 520ml,Foods,Rp35.000,600,Surabaya,2026-06-23 20:26:32.274200,35000.0,600,21000000.0
+TX-90057,Bango Kecap Manis Refill 520ml,Foods,Rp 4.000,850,Medan,2026-06-15 20:26:32.274267,4000.0,850,3400000.0
+TX-90016,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 15.500,2.100,Surabaya,2026-06-26 20:26:32.274345,15500.0,2100,32550000.0
+TX-90085,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 45.000,150,Dki Jakarta,2026-06-14 20:26:32.274449,45000.0,150,6750000.0
+TX-90116,Kahf Face Wash Oil Control 100ml,Paragon,Rp 15.500,2.100,Medan,2026-06-12 20:26:32.274525,15500.0,2100,32550000.0
+TX-90056,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 27.000,2.100,Gresik,2026-06-03 20:26:32.274593,27000.0,2100,56700000.0
+TX-90105,Teh Pucuk Harum 350ml BARU,Foods,Rp 15.500,0,Surabaya,2026-06-14 20:26:32.274908,15500.0,0,0.0
+TX-90113,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,null,"1,250",Medan,2026-06-28 20:26:32.275134,21089.04109589041,1250,26361301.369863015
+TX-90082,Teh Pucuk Harum 350ml BARU,Foods,Rp 15.500,0,Surabaya,2026-06-23 20:26:32.275328,15500.0,0,0.0
+TX-90030,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 18.500,None,Bandung,2026-06-12 20:26:32.275439,18500.0,0,0.0
+TX-90026,Roma Kelapa Biscuit 300g,Foods,Rp 27.000,600,National Trade,2026-06-14 20:26:32.275499,27000.0,600,16200000.0
+TX-90061,Wardah Lightening Day Cream 20ml,Paragon,Rp 15.500,2.100,Surabaya,2026-06-04 20:26:32.275693,15500.0,2100,32550000.0
+TX-90055,Kahf Face Wash Oil Control 100ml,Paragon,Rp 18.500,600,Bandung,2026-06-09 20:26:32.275758,18500.0,600,11100000.0
+TX-90103,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 18.500,850,Dki Jakarta,2026-06-07 20:26:32.275839,18500.0,850,15725000.0
+TX-90040,Teh Pucuk Harum 350ml BARU,Foods,Rp 27.000,2.100,Bandung,2026-06-14 20:26:32.275914,27000.0,2100,56700000.0
+TX-90034,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 4.000,600,Dki Jakarta,2026-06-04 20:26:32.275982,4000.0,600,2400000.0
+TX-90017,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 12.500,150,Dki Jakarta,2026-06-05 20:26:32.276109,12500.0,150,1875000.0
+TX-90084,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 45.000,850,Bandung,2026-06-09 20:26:32.276178,45000.0,850,38250000.0
+TX-90106,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,None,National Trade,2026-06-03 20:26:32.276306,12500.0,0,0.0
+TX-90001,Roma Kelapa Biscuit 300g,Foods,Rp 45.000,"1,250",Surabaya,2026-06-29 20:26:32.276403,45000.0,1250,56250000.0
+TX-90074,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 4.000,0,Surabaya,2026-06-21 20:26:32.276463,4000.0,0,0.0
+TX-90052,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp35.000,850,Medan,2026-06-19 20:26:32.276528,35000.0,850,29750000.0
+TX-90094,Roma Kelapa Biscuit 300g,Foods,Rp35.000,150,National Trade,2026-06-23 20:26:32.276611,35000.0,150,5250000.0
+TX-90023,Bango Kecap Manis Refill 520ml,Foods,Rp 18.500,0,Gresik,2026-06-06 20:26:32.276676,18500.0,0,0.0
+TX-90116,Bango Kecap Manis Refill 520ml,Foods,Rp35.000,850,Dki Jakarta,2026-06-10 20:26:32.276733,35000.0,850,29750000.0
+TX-90085,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 27.000,None,Surabaya,2026-06-04 20:26:32.276946,27000.0,0,0.0
+TX-90049,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,null,850,Gresik,2026-06-10 20:26:32.277032,21519.04761904762,850,18291190.476190474
+TX-90044,Roma Kelapa Biscuit 300g,Foods,Rp 12.500,None,Dki Jakarta,2026-06-28 20:26:32.277077,12500.0,0,0.0
+TX-90041,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 18.500,430,National Trade,2026-06-14 20:26:32.277129,18500.0,430,7955000.0
+TX-90075,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,null,2.100,Surabaya,2026-06-27 20:26:32.277176,21519.04761904762,2100,45190000.0
+TX-90093,Roma Kelapa Biscuit 300g,Foods,Rp 4.000,2.100,Dki Jakarta,2026-06-06 20:26:32.277225,4000.0,2100,8400000.0
+TX-90014,Wardah Lightening Day Cream 20ml,Paragon,Rp 27.000,600,National Trade,2026-06-17 20:26:32.277267,27000.0,600,16200000.0
+TX-90116,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 45.000,430,Dki Jakarta,2026-06-12 20:26:32.277315,45000.0,430,19350000.0
+TX-90107,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp35.000,850,National Trade,2026-05-31 20:26:32.277381,35000.0,850,29750000.0
+TX-90006,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,null,0,Dki Jakarta,2026-05-31 20:26:32.277598,21089.04109589041,0,0.0
+TX-90079,Bango Kecap Manis Refill 520ml,Foods,Rp 45.000,"1,250",National Trade,2026-06-07 20:26:32.277905,45000.0,1250,56250000.0
+TX-90087,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 27.000,430,Bandung,2026-06-02 20:26:32.277996,27000.0,430,11610000.0
+TX-90108,Roma Kelapa Biscuit 300g,Foods,Rp 12.500,600,Bandung,2026-06-02 20:26:32.278236,12500.0,600,7500000.0
+TX-90085,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 45.000,None,National Trade,2026-06-07 20:26:32.278324,45000.0,0,0.0
+TX-90041,Teh Pucuk Harum 350ml BARU,Foods,Rp 27.000,2.100,Dki Jakarta,2026-05-30 20:26:32.278397,27000.0,2100,56700000.0
+TX-90081,Bango Kecap Manis Refill 520ml,Foods,Rp35.000,"1,250",Surabaya,2026-06-06 20:26:32.278527,35000.0,1250,43750000.0
+TX-90056,Bango Kecap Manis Refill 520ml,Foods,Rp 15.500,None,Dki Jakarta,2026-05-31 20:26:32.278594,15500.0,0,0.0
+TX-90041,Bango Kecap Manis Refill 520ml,Foods,Rp 27.000,2.100,Dki Jakarta,2026-06-06 20:26:32.278656,27000.0,2100,56700000.0
+TX-90115,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,0,Bandung,2026-06-11 20:26:32.278718,12500.0,0,0.0
+TX-90109,Bango Kecap Manis Refill 520ml,Foods,Rp 15.500,0,Medan,2026-06-20 20:26:32.278746,15500.0,0,0.0
+TX-90036,Teh Pucuk Harum 350ml BARU,Foods,Rp 12.500,600,Dki Jakarta,2026-06-03 20:26:32.278833,12500.0,600,7500000.0
+TX-90060,Teh Pucuk Harum 350ml BARU,Foods,Rp 18.500,600,Bandung,2026-06-22 20:26:32.278860,18500.0,600,11100000.0
+TX-90052,Kahf Face Wash Oil Control 100ml,Paragon,null,600,Dki Jakarta,2026-06-07 20:26:32.278937,20132.352941176472,600,12079411.764705883
+TX-90020,Roma Kelapa Biscuit 300g,Foods,Rp 12.500,0,Dki Jakarta,2026-06-26 20:26:32.278962,12500.0,0,0.0
+TX-90024,Bango Kecap Manis Refill 520ml,Foods,null,"1,250",Medan,2026-06-11 20:26:32.278987,23909.90990990991,1250,29887387.387387387
+TX-90108,Teh Pucuk Harum 350ml BARU,Foods,Rp 12.500,"1,250",Dki Jakarta,2026-06-01 20:26:32.279012,12500.0,1250,15625000.0
+TX-90077,Bango Kecap Manis Refill 520ml,Foods,Rp 45.000,150,Medan,2026-06-05 20:26:32.279038,45000.0,150,6750000.0
+TX-90093,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 12.500,"1,250",Bandung,2026-06-08 20:26:32.279087,12500.0,1250,15625000.0
+TX-90047,Teh Pucuk Harum 350ml BARU,Foods,Rp 15.500,150,Dki Jakarta,2026-06-15 20:26:32.279185,15500.0,150,2325000.0
+TX-90009,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 27.000,850,Medan,2026-06-23 20:26:32.279209,27000.0,850,22950000.0
+TX-90098,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 18.500,150,Medan,2026-05-31 20:26:32.279290,18500.0,150,2775000.0
+TX-90117,Roma Kelapa Biscuit 300g,Foods,Rp 18.500,0,Dki Jakarta,2026-06-28 20:26:32.279340,18500.0,0,0.0
+TX-90103,Wardah Lightening Day Cream 20ml,Paragon,Rp 45.000,430,Dki Jakarta,2026-06-10 20:26:32.279364,45000.0,430,19350000.0
+TX-90026,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 15.500,430,Dki Jakarta,2026-06-09 20:26:32.279388,15500.0,430,6665000.0
+TX-90029,Teh Pucuk Harum 350ml BARU,Foods,Rp 18.500,2.100,Dki Jakarta,2026-06-07 20:26:32.279414,18500.0,2100,38850000.0
+TX-90032,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp35.000,600,National Trade,2026-06-20 20:26:32.279462,35000.0,600,21000000.0
+TX-90101,Teh Pucuk Harum 350ml BARU,Foods,null,2.100,Surabaya,2026-06-01 20:26:32.279486,21935.483870967742,2100,46064516.12903226
+TX-90070,Wardah Lightening Day Cream 20ml,Paragon,Rp 18.500,None,National Trade,2026-06-21 20:26:32.279518,18500.0,0,0.0
+TX-90026,Teh Pucuk Harum 350ml BARU,Foods,Rp 27.000,2.100,Medan,2026-06-06 20:26:32.279672,27000.0,2100,56700000.0
+TX-90021,Teh Pucuk Harum 350ml BARU,Foods,Rp35.000,2.100,Medan,2026-05-30 20:26:32.279741,35000.0,2100,73500000.0
+TX-90052,Roma Kelapa Biscuit 300g,Foods,Rp35.000,0,Dki Jakarta,2026-06-24 20:26:32.279796,35000.0,0,0.0
+TX-90091,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,null,850,Surabaya,2026-06-11 20:26:32.279823,21519.04761904762,850,18291190.476190474
+TX-90067,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 12.500,"1,250",National Trade,2026-05-30 20:26:32.279848,12500.0,1250,15625000.0
+TX-90096,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 4.000,150,Gresik,2026-06-20 20:26:32.279872,4000.0,150,600000.0
+TX-90086,Bango Kecap Manis Refill 520ml,Foods,Rp 15.500,600,Gresik,2026-06-27 20:26:32.279921,15500.0,600,9300000.0
+TX-90066,Kahf Face Wash Oil Control 100ml,Paragon,Rp 12.500,150,Surabaya,2026-06-12 20:26:32.279947,12500.0,150,1875000.0
+TX-90068,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,null,0,Surabaya,2026-06-08 20:26:32.280098,21519.04761904762,0,0.0
+TX-90033,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 45.000,600,Dki Jakarta,2026-06-17 20:26:32.280170,45000.0,600,27000000.0
+TX-90063,Kahf Face Wash Oil Control 100ml,Paragon,Rp 12.500,850,Gresik,2026-06-11 20:26:32.280195,12500.0,850,10625000.0
+TX-90008,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 18.500,None,Bandung,2026-06-03 20:26:32.280243,18500.0,0,0.0
+TX-90023,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 12.500,430,National Trade,2026-06-16 20:26:32.280268,12500.0,430,5375000.0
+TX-90070,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 12.500,"1,250",Medan,2026-06-08 20:26:32.280293,12500.0,1250,15625000.0
+TX-90025,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 45.000,0,Dki Jakarta,2026-06-15 20:26:32.280327,45000.0,0,0.0
+TX-90010,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,None,Dki Jakarta,2026-06-29 20:26:32.280353,12500.0,0,0.0
+TX-90070,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 27.000,"1,250",Surabaya,2026-05-31 20:26:32.280405,27000.0,1250,33750000.0
+TX-90068,Kahf Face Wash Oil Control 100ml,Paragon,Rp 4.000,600,Surabaya,2026-06-09 20:26:32.280431,4000.0,600,2400000.0
+TX-90090,Teh Pucuk Harum 350ml BARU,Foods,Rp35.000,430,Surabaya,2026-06-11 20:26:32.280455,35000.0,430,15050000.0
+TX-90062,Kahf Face Wash Oil Control 100ml,Paragon,Rp 15.500,850,Dki Jakarta,2026-06-23 20:26:32.280528,15500.0,850,13175000.0
+TX-90100,Kahf Face Wash Oil Control 100ml,Paragon,Rp 27.000,600,Dki Jakarta,2026-05-31 20:26:32.280560,27000.0,600,16200000.0
+TX-90062,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 27.000,None,Medan,2026-06-28 20:26:32.280609,27000.0,0,0.0
+TX-90097,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 18.500,150,Dki Jakarta,2026-06-15 20:26:32.280635,18500.0,150,2775000.0
+TX-90103,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 15.500,600,Surabaya,2026-06-25 20:26:32.280659,15500.0,600,9300000.0
+TX-90036,Bango Kecap Manis Refill 520ml,Foods,null,"1,250",Dki Jakarta,2026-06-09 20:26:32.280683,23909.90990990991,1250,29887387.387387387
+TX-90041,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp35.000,430,Dki Jakarta,2026-06-25 20:26:32.280709,35000.0,430,15050000.0
+TX-90051,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 15.500,"1,250",Dki Jakarta,2026-05-31 20:26:32.280782,15500.0,1250,19375000.0
+TX-90087,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 12.500,"1,250",Medan,2026-06-04 20:26:32.280813,12500.0,1250,15625000.0
+TX-90082,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 18.500,2.100,Dki Jakarta,2026-06-22 20:26:32.280933,18500.0,2100,38850000.0
+TX-90087,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,null,850,Surabaya,2026-06-19 20:26:32.281058,23746.031746031746,850,20184126.984126985
+TX-90033,Kahf Face Wash Oil Control 100ml,Paragon,Rp 4.000,850,Bandung,2026-06-14 20:26:32.281165,4000.0,850,3400000.0
+TX-90055,Wardah Lightening Day Cream 20ml,Paragon,Rp 45.000,0,Surabaya,2026-06-08 20:26:32.281291,45000.0,0,0.0
+TX-90085,Wardah Lightening Day Cream 20ml,Paragon,Rp 4.000,600,Surabaya,2026-05-31 20:26:32.281325,4000.0,600,2400000.0
+TX-90018,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 45.000,430,Dki Jakarta,2026-06-06 20:26:32.281354,45000.0,430,19350000.0
+TX-90017,Teh Pucuk Harum 350ml BARU,Foods,Rp 15.500,2.100,Dki Jakarta,2026-06-23 20:26:32.281379,15500.0,2100,32550000.0
+TX-90042,Roma Kelapa Biscuit 300g,Foods,Rp 15.500,150,Bandung,2026-06-10 20:26:32.281404,15500.0,150,2325000.0
+TX-90027,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 27.000,2.100,Medan,2026-05-31 20:26:32.281428,27000.0,2100,56700000.0
+TX-90113,Roma Kelapa Biscuit 300g,Foods,Rp35.000,None,Dki Jakarta,2026-06-20 20:26:32.281453,35000.0,0,0.0
+TX-90096,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 12.500,None,Dki Jakarta,2026-06-06 20:26:32.281477,12500.0,0,0.0
+TX-90086,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 27.000,"1,250",Surabaya,2026-06-25 20:26:32.281526,27000.0,1250,33750000.0
+TX-90043,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 4.000,150,Surabaya,2026-05-30 20:26:32.281550,4000.0,150,600000.0
+TX-90100,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 12.500,None,Bandung,2026-06-09 20:26:32.281579,12500.0,0,0.0
+TX-90056,Kahf Face Wash Oil Control 100ml,Paragon,Rp 27.000,None,Medan,2026-06-17 20:26:32.281619,27000.0,0,0.0
+TX-90026,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 15.500,430,National Trade,2026-06-16 20:26:32.281658,15500.0,430,6665000.0
+TX-90078,Roma Kelapa Biscuit 300g,Foods,Rp 45.000,600,Medan,2026-06-11 20:26:32.281683,45000.0,600,27000000.0
+TX-90019,Kahf Face Wash Oil Control 100ml,Paragon,Rp 4.000,600,National Trade,2026-06-03 20:26:32.281708,4000.0,600,2400000.0
+TX-90104,Roma Kelapa Biscuit 300g,Foods,Rp 45.000,0,Dki Jakarta,2026-06-05 20:26:32.281732,45000.0,0,0.0
+TX-90108,Wardah Lightening Day Cream 20ml,Paragon,Rp 15.500,2.100,Dki Jakarta,2026-06-25 20:26:32.281756,15500.0,2100,32550000.0
+TX-90101,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 15.500,850,Dki Jakarta,2026-06-01 20:26:32.281805,15500.0,850,13175000.0
+TX-90104,Wardah Lightening Day Cream 20ml,Paragon,Rp 27.000,0,National Trade,2026-06-17 20:26:32.281852,27000.0,0,0.0
+TX-90015,Teh Pucuk Harum 350ml BARU,Foods,Rp 45.000,None,Medan,2026-06-05 20:26:32.281876,45000.0,0,0.0
+TX-90050,Teh Pucuk Harum 350ml BARU,Foods,Rp 12.500,150,Dki Jakarta,2026-06-05 20:26:32.281903,12500.0,150,1875000.0
+TX-90085,Roma Kelapa Biscuit 300g,Foods,null,2.100,National Trade,2026-06-14 20:26:32.281928,22432.7731092437,2100,47108823.52941177
+TX-90064,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,null,2.100,Gresik,2026-06-18 20:26:32.281952,21089.04109589041,2100,44286986.30136986
+TX-90059,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 4.000,430,Dki Jakarta,2026-06-04 20:26:32.281977,4000.0,430,1720000.0
+TX-90090,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 15.500,150,Gresik,2026-06-20 20:26:32.282001,15500.0,150,2325000.0
+TX-90050,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 18.500,850,Surabaya,2026-06-20 20:26:32.282025,18500.0,850,15725000.0
+TX-90035,Kahf Face Wash Oil Control 100ml,Paragon,null,600,Bandung,2026-06-06 20:26:32.282084,20132.352941176472,600,12079411.764705883
+TX-90081,Wardah Lightening Day Cream 20ml,Paragon,Rp 12.500,430,Surabaya,2026-06-22 20:26:32.282212,12500.0,430,5375000.0
+TX-90088,Teh Pucuk Harum 350ml BARU,Foods,Rp 27.000,2.100,Dki Jakarta,2026-06-06 20:26:32.282259,27000.0,2100,56700000.0
+TX-90084,Roma Kelapa Biscuit 300g,Foods,null,2.100,Dki Jakarta,2026-06-05 20:26:32.282324,22432.7731092437,2100,47108823.52941177
+TX-90020,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 45.000,850,Gresik,2026-06-25 20:26:32.282400,45000.0,850,38250000.0
+TX-90107,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,null,2.100,Surabaya,2026-06-04 20:26:32.282424,21089.04109589041,2100,44286986.30136986
+TX-90079,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 4.000,430,Surabaya,2026-06-13 20:26:32.282448,4000.0,430,1720000.0
+TX-90114,Teh Pucuk Harum 350ml BARU,Foods,Rp 15.500,850,Bandung,2026-06-24 20:26:32.282543,15500.0,850,13175000.0
+TX-90119,Kahf Face Wash Oil Control 100ml,Paragon,Rp 45.000,0,Surabaya,2026-06-09 20:26:32.282599,45000.0,0,0.0
+TX-90005,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp35.000,None,Dki Jakarta,2026-06-20 20:26:32.282624,35000.0,0,0.0
+TX-90015,Bango Kecap Manis Refill 520ml,Foods,Rp 45.000,"1,250",Dki Jakarta,2026-06-13 20:26:32.282648,45000.0,1250,56250000.0
+TX-90045,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 18.500,0,Surabaya,2026-06-22 20:26:32.282676,18500.0,0,0.0
+TX-90111,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 12.500,150,Medan,2026-06-26 20:26:32.282745,12500.0,150,1875000.0
+TX-90106,Teh Pucuk Harum 350ml BARU,Foods,null,"1,250",Bandung,2026-06-15 20:26:32.282795,21935.483870967742,1250,27419354.83870968
+TX-90072,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 12.500,"1,250",National Trade,2026-06-27 20:26:32.282819,12500.0,1250,15625000.0
+TX-90002,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 45.000,850,Dki Jakarta,2026-06-22 20:26:32.282867,45000.0,850,38250000.0
+TX-90114,Roma Kelapa Biscuit 300g,Foods,Rp 12.500,850,Bandung,2026-06-27 20:26:32.282993,12500.0,850,10625000.0
+TX-90043,Roma Kelapa Biscuit 300g,Foods,Rp 45.000,430,Dki Jakarta,2026-05-30 20:26:32.283017,45000.0,430,19350000.0
+TX-90028,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,null,430,Gresik,2026-06-06 20:26:32.283064,21222.727272727272,430,9125772.727272727
+TX-90041,Roma Kelapa Biscuit 300g,Foods,Rp 27.000,600,Dki Jakarta,2026-06-25 20:26:32.283113,27000.0,600,16200000.0
+TX-90053,Teh Pucuk Harum 350ml BARU,Foods,null,430,Dki Jakarta,2026-06-14 20:26:32.283161,21935.483870967742,430,9432258.064516129
+TX-90038,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 18.500,None,Gresik,2026-06-10 20:26:32.283185,18500.0,0,0.0
+TX-90069,Wardah Lightening Day Cream 20ml,Paragon,Rp 4.000,150,Bandung,2026-06-29 20:26:32.283213,4000.0,150,600000.0
+TX-90039,Kahf Face Wash Oil Control 100ml,Paragon,null,600,Dki Jakarta,2026-06-20 20:26:32.283239,20132.352941176472,600,12079411.764705883
+TX-90031,Bango Kecap Manis Refill 520ml,Foods,Rp 15.500,430,Dki Jakarta,2026-06-23 20:26:32.283291,15500.0,430,6665000.0
+TX-90065,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 27.000,None,Bandung,2026-06-23 20:26:32.283339,27000.0,0,0.0
+TX-90045,Kahf Face Wash Oil Control 100ml,Paragon,Rp 4.000,2.100,Dki Jakarta,2026-05-31 20:26:32.283443,4000.0,2100,8400000.0
+TX-90019,Roma Kelapa Biscuit 300g,Foods,Rp 18.500,850,Surabaya,2026-06-11 20:26:32.283493,18500.0,850,15725000.0
+TX-90069,Roma Kelapa Biscuit 300g,Foods,Rp 15.500,2.100,National Trade,2026-05-31 20:26:32.283640,15500.0,2100,32550000.0
+TX-90075,Bango Kecap Manis Refill 520ml,Foods,Rp 27.000,150,Dki Jakarta,2026-06-29 20:26:32.283694,27000.0,150,4050000.0
+TX-90058,Roma Kelapa Biscuit 300g,Foods,Rp 18.500,None,National Trade,2026-06-27 20:26:32.283792,18500.0,0,0.0
+TX-90065,Wardah Lightening Day Cream 20ml,Paragon,Rp35.000,"1,250",Medan,2026-06-06 20:26:32.283882,35000.0,1250,43750000.0
+TX-90011,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 45.000,"1,250",Surabaya,2026-06-06 20:26:32.283930,45000.0,1250,56250000.0
+TX-90045,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 27.000,150,Medan,2026-06-17 20:26:32.284267,27000.0,150,4050000.0
+TX-90096,Roma Kelapa Biscuit 300g,Foods,Rp 45.000,150,National Trade,2026-06-23 20:26:32.284293,45000.0,150,6750000.0
+TX-90067,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 18.500,None,Surabaya,2026-06-27 20:26:32.284341,18500.0,0,0.0
+TX-90105,Wardah Lightening Day Cream 20ml,Paragon,Rp 15.500,430,Medan,2026-06-10 20:26:32.284365,15500.0,430,6665000.0
+TX-90009,Kahf Face Wash Oil Control 100ml,Paragon,null,150,National Trade,2026-06-08 20:26:32.284415,20132.352941176472,150,3019852.941176471
+TX-90022,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 4.000,850,Bandung,2026-06-10 20:26:32.284512,4000.0,850,3400000.0
+TX-90093,Wardah Lightening Day Cream 20ml,Paragon,Rp 27.000,None,Medan,2026-06-12 20:26:32.284536,27000.0,0,0.0
+TX-90065,Roma Kelapa Biscuit 300g,Foods,Rp 27.000,2.100,Bandung,2026-06-22 20:26:32.284638,27000.0,2100,56700000.0
+TX-90060,Kahf Face Wash Oil Control 100ml,Paragon,Rp 4.000,850,Dki Jakarta,2026-06-06 20:26:32.284690,4000.0,850,3400000.0
+TX-90092,Kahf Face Wash Oil Control 100ml,Paragon,null,600,Bandung,2026-06-15 20:26:32.284738,20132.352941176472,600,12079411.764705883
+TX-90042,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 4.000,430,Dki Jakarta,2026-06-29 20:26:32.284786,4000.0,430,1720000.0
+TX-90049,Roma Kelapa Biscuit 300g,Foods,Rp 4.000,430,Bandung,2026-06-27 20:26:32.284921,4000.0,430,1720000.0
+TX-90009,Bango Kecap Manis Refill 520ml,Foods,Rp35.000,850,Bandung,2026-05-30 20:26:32.284953,35000.0,850,29750000.0
+TX-90035,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 45.000,150,Bandung,2026-06-04 20:26:32.284979,45000.0,150,6750000.0
+TX-90096,Bango Kecap Manis Refill 520ml,Foods,Rp 27.000,0,Dki Jakarta,2026-06-04 20:26:32.285028,27000.0,0,0.0
+TX-90026,Kahf Face Wash Oil Control 100ml,Paragon,Rp 12.500,0,National Trade,2026-05-31 20:26:32.285219,12500.0,0,0.0
+TX-90102,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 18.500,850,Dki Jakarta,2026-06-17 20:26:32.285287,18500.0,850,15725000.0
+TX-90052,Wardah Lightening Day Cream 20ml,Paragon,Rp 27.000,430,Bandung,2026-06-01 20:26:32.285383,27000.0,430,11610000.0
+TX-90087,Roma Kelapa Biscuit 300g,Foods,Rp 45.000,150,Dki Jakarta,2026-06-04 20:26:32.285547,45000.0,150,6750000.0
+TX-90057,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 18.500,850,Dki Jakarta,2026-06-19 20:26:32.285909,18500.0,850,15725000.0
+TX-90083,Bango Kecap Manis Refill 520ml,Foods,Rp 27.000,2.100,Gresik,2026-06-13 20:26:32.285994,27000.0,2100,56700000.0
+TX-90016,Teh Pucuk Harum 350ml BARU,Foods,Rp 15.500,430,National Trade,2026-06-29 20:26:32.286143,15500.0,430,6665000.0
+TX-90087,Teh Pucuk Harum 350ml BARU,Foods,Rp 27.000,430,Dki Jakarta,2026-06-24 20:26:32.286203,27000.0,430,11610000.0
+TX-90035,Teh Pucuk Harum 350ml BARU,Foods,Rp 4.000,"1,250",Dki Jakarta,2026-05-30 20:26:32.286274,4000.0,1250,5000000.0
+TX-90028,Kahf Face Wash Oil Control 100ml,Paragon,Rp 27.000,850,Bandung,2026-06-08 20:26:32.286331,27000.0,850,22950000.0
+TX-90008,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,150,Surabaya,2026-06-07 20:26:32.286365,12500.0,150,1875000.0
+TX-90094,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,2.100,Dki Jakarta,2026-06-09 20:26:32.286391,12500.0,2100,26250000.0
+TX-90053,Kahf Face Wash Oil Control 100ml,Paragon,Rp 45.000,0,Surabaya,2026-06-15 20:26:32.286467,45000.0,0,0.0
+TX-90067,Bango Kecap Manis Refill 520ml,Foods,Rp 18.500,0,Dki Jakarta,2026-06-28 20:26:32.286511,18500.0,0,0.0
+TX-90058,Kahf Face Wash Oil Control 100ml,Paragon,Rp 18.500,"1,250",Bandung,2026-06-11 20:26:32.286881,18500.0,1250,23125000.0
+TX-90096,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 4.000,"1,250",National Trade,2026-06-15 20:26:32.286945,4000.0,1250,5000000.0
+TX-90090,Wardah Lightening Day Cream 20ml,Paragon,Rp 4.000,150,Dki Jakarta,2026-06-15 20:26:32.287006,4000.0,150,600000.0
+TX-90070,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 18.500,430,Dki Jakarta,2026-06-03 20:26:32.287069,18500.0,430,7955000.0
+TX-90010,Kahf Face Wash Oil Control 100ml,Paragon,Rp35.000,2.100,National Trade,2026-06-09 20:26:32.287124,35000.0,2100,73500000.0
+TX-90090,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 12.500,430,Dki Jakarta,2026-06-09 20:26:32.287178,12500.0,430,5375000.0
+TX-90101,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 45.000,2.100,Dki Jakarta,2026-06-17 20:26:32.287324,45000.0,2100,94500000.0
+TX-90040,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp35.000,600,Bandung,2026-06-14 20:26:32.287396,35000.0,600,21000000.0
+TX-90055,Teh Pucuk Harum 350ml BARU,Foods,Rp 45.000,150,Dki Jakarta,2026-06-05 20:26:32.287465,45000.0,150,6750000.0
+TX-90083,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 12.500,430,Dki Jakarta,2026-06-15 20:26:32.287534,12500.0,430,5375000.0
+TX-90063,Bango Kecap Manis Refill 520ml,Foods,Rp 18.500,850,Bandung,2026-06-23 20:26:32.287721,18500.0,850,15725000.0
+TX-90074,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 45.000,600,Dki Jakarta,2026-06-11 20:26:32.287808,45000.0,600,27000000.0
+TX-90105,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,null,150,Dki Jakarta,2026-06-13 20:26:32.287873,21519.04761904762,150,3227857.1428571427
+TX-90097,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 4.000,"1,250",Dki Jakarta,2026-06-28 20:26:32.288124,4000.0,1250,5000000.0
+TX-90120,Teh Pucuk Harum 350ml BARU,Foods,Rp 45.000,850,Bandung,2026-06-21 20:26:32.288200,45000.0,850,38250000.0
+TX-90061,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 4.000,430,Bandung,2026-06-08 20:26:32.288224,4000.0,430,1720000.0
+TX-90059,Wardah Lightening Day Cream 20ml,Paragon,Rp 45.000,600,Bandung,2026-06-13 20:26:32.288291,45000.0,600,27000000.0
+TX-90081,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 15.500,2.100,Surabaya,2026-06-16 20:26:32.288360,15500.0,2100,32550000.0
+TX-90037,Kahf Face Wash Oil Control 100ml,Paragon,Rp 4.000,0,Surabaya,2026-06-08 20:26:32.288418,4000.0,0,0.0
+TX-90078,Wardah Lightening Day Cream 20ml,Paragon,Rp 4.000,150,Bandung,2026-06-21 20:26:32.288468,4000.0,150,600000.0
+TX-90065,Kahf Face Wash Oil Control 100ml,Paragon,Rp 15.500,600,Surabaya,2026-06-25 20:26:32.288492,15500.0,600,9300000.0
+TX-90049,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 27.000,850,Dki Jakarta,2026-06-18 20:26:32.288589,27000.0,850,22950000.0
+TX-90105,Bango Kecap Manis Refill 520ml,Foods,Rp 15.500,0,Bandung,2026-06-04 20:26:32.288620,15500.0,0,0.0
+TX-90016,Kahf Face Wash Oil Control 100ml,Paragon,Rp 12.500,None,National Trade,2026-06-18 20:26:32.288664,12500.0,0,0.0
+TX-90036,Wardah Lightening Day Cream 20ml,Paragon,Rp 18.500,"1,250",Medan,2026-05-31 20:26:32.288692,18500.0,1250,23125000.0
+TX-90102,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 12.500,430,Dki Jakarta,2026-06-08 20:26:32.288741,12500.0,430,5375000.0
+TX-90033,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,null,"1,250",Bandung,2026-06-22 20:26:32.288813,21519.04761904762,1250,26898809.523809522
+TX-90104,Bango Kecap Manis Refill 520ml,Foods,Rp 45.000,None,National Trade,2026-06-02 20:26:32.288897,45000.0,0,0.0
+TX-90053,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 15.500,600,Gresik,2026-06-23 20:26:32.288954,15500.0,600,9300000.0
+TX-90041,Wardah Lightening Day Cream 20ml,Paragon,Rp 45.000,2.100,Surabaya,2026-06-18 20:26:32.288978,45000.0,2100,94500000.0
+TX-90067,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 4.000,150,Bandung,2026-06-06 20:26:32.289002,4000.0,150,600000.0
+TX-90099,Kahf Face Wash Oil Control 100ml,Paragon,Rp 12.500,430,Dki Jakarta,2026-06-25 20:26:32.289344,12500.0,430,5375000.0
+TX-90102,Teh Pucuk Harum 350ml BARU,Foods,Rp 18.500,2.100,Surabaya,2026-06-20 20:26:32.289467,18500.0,2100,38850000.0
+TX-90063,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 15.500,None,Bandung,2026-06-06 20:26:32.289611,15500.0,0,0.0
+TX-90027,Bango Kecap Manis Refill 520ml,Foods,Rp 12.500,150,Bandung,2026-06-21 20:26:32.337033,12500.0,150,1875000.0
+TX-90101,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 15.500,2.100,Gresik,2026-06-29 20:26:32.337152,15500.0,2100,32550000.0
+TX-90075,Kahf Face Wash Oil Control 100ml,Paragon,Rp 12.500,2.100,Bandung,2026-06-18 20:26:32.337192,12500.0,2100,26250000.0
+TX-90072,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 27.000,430,Dki Jakarta,2026-06-27 20:26:32.337225,27000.0,430,11610000.0
+TX-90050,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,null,0,Dki Jakarta,2026-06-16 20:26:32.337369,21222.727272727272,0,0.0
+TX-90038,Wardah Lightening Day Cream 20ml,Paragon,Rp 45.000,2.100,Surabaya,2026-06-17 20:26:32.337403,45000.0,2100,94500000.0
+TX-90031,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 12.500,430,Medan,2026-06-14 20:26:32.337497,12500.0,430,5375000.0
+TX-90044,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 45.000,150,National Trade,2026-06-29 20:26:32.337599,45000.0,150,6750000.0
+TX-90023,Teh Pucuk Harum 350ml BARU,Foods,null,850,Gresik,2026-06-13 20:26:32.337809,21935.483870967742,850,18645161.29032258
+TX-90052,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 27.000,150,Bandung,2026-06-22 20:26:32.337878,27000.0,150,4050000.0
+TX-90005,Bango Kecap Manis Refill 520ml,Foods,Rp 15.500,0,Dki Jakarta,2026-06-24 20:26:32.337965,15500.0,0,0.0
+TX-90003,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 27.000,2.100,Gresik,2026-06-03 20:26:32.338015,27000.0,2100,56700000.0
+TX-90107,Wardah Lightening Day Cream 20ml,Paragon,Rp 12.500,"1,250",Surabaya,2026-06-15 20:26:32.338052,12500.0,1250,15625000.0
+TX-90010,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 18.500,2.100,Surabaya,2026-06-23 20:26:32.338087,18500.0,2100,38850000.0
+TX-90007,Kahf Face Wash Oil Control 100ml,Paragon,Rp 27.000,0,Bandung,2026-06-02 20:26:32.338170,27000.0,0,0.0
+TX-90033,Roma Kelapa Biscuit 300g,Foods,Rp 12.500,"1,250",Gresik,2026-06-08 20:26:32.338245,12500.0,1250,15625000.0
+TX-90027,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp35.000,2.100,Dki Jakarta,2026-06-28 20:26:32.338272,35000.0,2100,73500000.0
+TX-90110,Roma Kelapa Biscuit 300g,Foods,Rp 27.000,430,Medan,2026-06-02 20:26:32.338373,27000.0,430,11610000.0
+TX-90039,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp35.000,2.100,Bandung,2026-06-01 20:26:32.338437,35000.0,2100,73500000.0
+TX-90113,Teh Pucuk Harum 350ml BARU,Foods,Rp 4.000,430,Gresik,2026-06-17 20:26:32.338479,4000.0,430,1720000.0
+TX-90003,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 4.000,600,Gresik,2026-06-11 20:26:32.338531,4000.0,600,2400000.0
+TX-90062,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 27.000,600,Dki Jakarta,2026-06-16 20:26:32.338629,27000.0,600,16200000.0
+TX-90010,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 12.500,0,Dki Jakarta,2026-06-09 20:26:32.338709,12500.0,0,0.0
+TX-90046,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 27.000,430,Bandung,2026-06-06 20:26:32.338817,27000.0,430,11610000.0
+TX-90088,Roma Kelapa Biscuit 300g,Foods,Rp 15.500,850,Dki Jakarta,2026-06-12 20:26:32.338842,15500.0,850,13175000.0
+TX-90074,Roma Kelapa Biscuit 300g,Foods,Rp 15.500,430,Medan,2026-06-19 20:26:32.338993,15500.0,430,6665000.0
+TX-90046,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,null,150,National Trade,2026-06-11 20:26:32.339091,21089.04109589041,150,3163356.1643835614
+TX-90102,Wardah Lightening Day Cream 20ml,Paragon,Rp 15.500,2.100,Bandung,2026-06-22 20:26:32.339140,15500.0,2100,32550000.0
+TX-90089,Teh Pucuk Harum 350ml BARU,Foods,Rp 12.500,0,Gresik,2026-06-15 20:26:32.339310,12500.0,0,0.0
+TX-90065,Bango Kecap Manis Refill 520ml,Foods,Rp35.000,"1,250",Dki Jakarta,2026-06-26 20:26:32.339566,35000.0,1250,43750000.0
+TX-90113,Kahf Face Wash Oil Control 100ml,Paragon,Rp35.000,150,Bandung,2026-06-08 20:26:32.339626,35000.0,150,5250000.0
+TX-90006,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 27.000,None,Bandung,2026-06-14 20:26:32.339708,27000.0,0,0.0
+TX-90063,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 18.500,2.100,Gresik,2026-06-09 20:26:32.339744,18500.0,2100,38850000.0
+TX-90001,Kahf Face Wash Oil Control 100ml,Paragon,null,150,Bandung,2026-06-24 20:26:32.339773,20132.352941176472,150,3019852.941176471
+TX-90004,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 27.000,150,Bandung,2026-06-18 20:26:32.339824,27000.0,150,4050000.0
+TX-90087,Bango Kecap Manis Refill 520ml,Foods,Rp 15.500,None,Gresik,2026-06-23 20:26:32.339950,15500.0,0,0.0
+TX-90040,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,null,"1,250",Medan,2026-06-03 20:26:32.339988,23746.031746031746,1250,29682539.682539683
+TX-90118,Kahf Face Wash Oil Control 100ml,Paragon,Rp 18.500,600,Bandung,2026-06-08 20:26:32.340016,18500.0,600,11100000.0
+TX-90104,Kahf Face Wash Oil Control 100ml,Paragon,Rp35.000,600,Bandung,2026-06-29 20:26:32.340076,35000.0,600,21000000.0
+TX-90071,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 15.500,850,Bandung,2026-06-19 20:26:32.340104,15500.0,850,13175000.0
+TX-90097,Teh Pucuk Harum 350ml BARU,Foods,Rp35.000,None,Gresik,2026-06-13 20:26:32.340179,35000.0,0,0.0
+TX-90065,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 27.000,0,National Trade,2026-06-24 20:26:32.340228,27000.0,0,0.0
+TX-90059,Roma Kelapa Biscuit 300g,Foods,Rp 27.000,600,Surabaya,2026-06-23 20:26:32.340257,27000.0,600,16200000.0
+TX-90005,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 12.500,0,Dki Jakarta,2026-06-07 20:26:32.340308,12500.0,0,0.0
+TX-90073,Wardah Lightening Day Cream 20ml,Paragon,null,150,Dki Jakarta,2026-06-24 20:26:32.340332,22734.782608695652,150,3410217.3913043477
+TX-90044,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 4.000,0,Dki Jakarta,2026-06-02 20:26:32.340356,4000.0,0,0.0
+TX-90097,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,0,Surabaya,2026-06-15 20:26:32.340380,12500.0,0,0.0
+TX-90095,Kahf Face Wash Oil Control 100ml,Paragon,Rp 27.000,850,Medan,2026-06-23 20:26:32.340459,27000.0,850,22950000.0
+TX-90038,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,null,150,Medan,2026-06-17 20:26:32.340582,21519.04761904762,150,3227857.1428571427
+TX-90088,Wardah Lightening Day Cream 20ml,Paragon,Rp 27.000,430,Dki Jakarta,2026-05-30 20:26:32.340687,27000.0,430,11610000.0
+TX-90083,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 18.500,None,Bandung,2026-06-21 20:26:32.340810,18500.0,0,0.0
+TX-90069,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,null,850,Surabaya,2026-05-31 20:26:32.341000,21222.727272727272,850,18039318.18181818
+TX-90099,Wardah Lightening Day Cream 20ml,Paragon,Rp 18.500,850,Dki Jakarta,2026-06-02 20:26:32.341062,18500.0,850,15725000.0
+TX-90030,Teh Pucuk Harum 350ml BARU,Foods,Rp 12.500,None,Dki Jakarta,2026-06-09 20:26:32.341196,12500.0,0,0.0
+TX-90039,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 27.000,150,Medan,2026-06-02 20:26:32.341366,27000.0,150,4050000.0
+TX-90055,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 18.500,2.100,Bandung,2026-06-13 20:26:32.341435,18500.0,2100,38850000.0
+TX-90113,Wardah Lightening Day Cream 20ml,Paragon,Rp 27.000,150,National Trade,2026-06-15 20:26:32.341482,27000.0,150,4050000.0
+TX-90028,Bango Kecap Manis Refill 520ml,Foods,Rp 15.500,None,Dki Jakarta,2026-06-07 20:26:32.341511,15500.0,0,0.0
+TX-90094,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 45.000,2.100,Dki Jakarta,2026-06-14 20:26:32.341547,45000.0,2100,94500000.0
+TX-90071,Roma Kelapa Biscuit 300g,Foods,Rp 15.500,600,Dki Jakarta,2026-06-25 20:26:32.341673,15500.0,600,9300000.0
+TX-90093,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 12.500,2.100,Dki Jakarta,2026-06-06 20:26:32.341696,12500.0,2100,26250000.0
+TX-90092,Bango Kecap Manis Refill 520ml,Foods,Rp 27.000,600,Dki Jakarta,2026-06-03 20:26:32.341720,27000.0,600,16200000.0
+TX-90095,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 15.500,430,National Trade,2026-06-04 20:26:32.341860,15500.0,430,6665000.0
+TX-90111,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 18.500,150,Bandung,2026-06-17 20:26:32.341989,18500.0,150,2775000.0
+TX-90110,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 4.000,430,Dki Jakarta,2026-06-02 20:26:32.342038,4000.0,430,1720000.0
+TX-90062,Wardah Lightening Day Cream 20ml,Paragon,Rp 4.000,"1,250",Surabaya,2026-06-07 20:26:32.342166,4000.0,1250,5000000.0
+TX-90056,Teh Pucuk Harum 350ml BARU,Foods,Rp 18.500,850,Gresik,2026-06-25 20:26:32.342363,18500.0,850,15725000.0
+TX-90105,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp35.000,600,Dki Jakarta,2026-06-22 20:26:32.342495,35000.0,600,21000000.0
+TX-90039,Roma Kelapa Biscuit 300g,Foods,Rp 15.500,150,Bandung,2026-06-10 20:26:32.342521,15500.0,150,2325000.0
+TX-90042,Teh Pucuk Harum 350ml BARU,Foods,Rp 18.500,850,National Trade,2026-06-28 20:26:32.342571,18500.0,850,15725000.0
+TX-90052,Bango Kecap Manis Refill 520ml,Foods,Rp 4.000,430,Surabaya,2026-06-20 20:26:32.342662,4000.0,430,1720000.0
+TX-90036,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 45.000,None,Medan,2026-06-27 20:26:32.342734,45000.0,0,0.0
+TX-90118,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,null,600,Bandung,2026-06-18 20:26:32.342804,21089.04109589041,600,12653424.657534245
+TX-90109,Kahf Face Wash Oil Control 100ml,Paragon,Rp 18.500,850,Bandung,2026-06-10 20:26:32.342857,18500.0,850,15725000.0
+TX-90120,Kahf Face Wash Oil Control 100ml,Paragon,Rp 4.000,None,Surabaya,2026-06-13 20:26:32.342908,4000.0,0,0.0
+TX-90056,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 45.000,0,Medan,2026-06-24 20:26:32.342978,45000.0,0,0.0
+TX-90107,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp35.000,430,Bandung,2026-06-27 20:26:32.343002,35000.0,430,15050000.0
+TX-90093,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 18.500,"1,250",Dki Jakarta,2026-06-10 20:26:32.343051,18500.0,1250,23125000.0
+TX-90022,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,null,150,Surabaya,2026-06-19 20:26:32.343177,21222.727272727272,150,3183409.090909091
+TX-90054,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp35.000,430,Bandung,2026-06-05 20:26:32.343355,35000.0,430,15050000.0
+TX-90104,Teh Pucuk Harum 350ml BARU,Foods,Rp 18.500,2.100,National Trade,2026-06-15 20:26:32.343410,18500.0,2100,38850000.0
+TX-90031,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 27.000,"1,250",Gresik,2026-06-21 20:26:32.343461,27000.0,1250,33750000.0
+TX-90030,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,null,2.100,Dki Jakarta,2026-06-16 20:26:32.343557,23746.031746031746,2100,49866666.666666664
+TX-90003,Kahf Face Wash Oil Control 100ml,Paragon,null,0,Gresik,2026-06-25 20:26:32.343604,20132.352941176472,0,0.0
+TX-90075,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 18.500,0,Surabaya,2026-06-26 20:26:32.343724,18500.0,0,0.0
+TX-90071,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 27.000,600,Dki Jakarta,2026-06-15 20:26:32.343823,27000.0,600,16200000.0
+TX-90081,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 12.500,"1,250",National Trade,2026-05-31 20:26:32.344006,12500.0,1250,15625000.0
+TX-90104,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 12.500,None,Bandung,2026-06-05 20:26:32.344062,12500.0,0,0.0
+TX-90072,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 15.500,850,Dki Jakarta,2026-06-02 20:26:32.344110,15500.0,850,13175000.0
+TX-90032,Wardah Lightening Day Cream 20ml,Paragon,Rp35.000,0,Medan,2026-06-22 20:26:32.344134,35000.0,0,0.0
+TX-90056,Wardah Lightening Day Cream 20ml,Paragon,Rp 15.500,600,Dki Jakarta,2026-06-17 20:26:32.344182,15500.0,600,9300000.0
+TX-90055,Roma Kelapa Biscuit 300g,Foods,Rp 45.000,600,Medan,2026-06-05 20:26:32.344229,45000.0,600,27000000.0
+TX-90039,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 18.500,430,National Trade,2026-06-23 20:26:32.344252,18500.0,430,7955000.0
+TX-90083,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 15.500,150,Dki Jakarta,2026-06-10 20:26:32.344324,15500.0,150,2325000.0
+TX-90029,Roma Kelapa Biscuit 300g,Foods,Rp 18.500,850,Gresik,2026-06-12 20:26:32.344403,18500.0,850,15725000.0
+TX-90035,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 12.500,2.100,Bandung,2026-06-15 20:26:32.344429,12500.0,2100,26250000.0
+TX-90007,Wardah Lightening Day Cream 20ml,Paragon,Rp35.000,850,Surabaya,2026-06-01 20:26:32.344453,35000.0,850,29750000.0
+TX-90119,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 27.000,150,National Trade,2026-06-29 20:26:32.344487,27000.0,150,4050000.0
+TX-90041,Kahf Face Wash Oil Control 100ml,Paragon,Rp 18.500,2.100,Dki Jakarta,2026-06-13 20:26:32.344865,18500.0,2100,38850000.0
+TX-90079,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 27.000,430,Gresik,2026-06-09 20:26:32.344978,27000.0,430,11610000.0
+TX-90085,Kahf Face Wash Oil Control 100ml,Paragon,Rp 27.000,0,Gresik,2026-06-03 20:26:32.345249,27000.0,0,0.0
+TX-90062,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,null,"1,250",Dki Jakarta,2026-06-28 20:26:32.345338,21222.727272727272,1250,26528409.09090909
+TX-90043,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 15.500,150,Dki Jakarta,2026-06-29 20:26:32.345411,15500.0,150,2325000.0
+TX-90034,Roma Kelapa Biscuit 300g,Foods,Rp 15.500,430,Bandung,2026-06-03 20:26:32.345659,15500.0,430,6665000.0
+TX-90013,Bango Kecap Manis Refill 520ml,Foods,Rp 45.000,0,Dki Jakarta,2026-06-14 20:26:32.345774,45000.0,0,0.0
+TX-90104,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 15.500,"1,250",Surabaya,2026-06-05 20:26:32.346537,15500.0,1250,19375000.0
+TX-90056,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 12.500,None,Bandung,2026-06-25 20:26:32.346903,12500.0,0,0.0
+TX-90112,Kahf Face Wash Oil Control 100ml,Paragon,Rp 15.500,"1,250",Surabaya,2026-06-25 20:26:32.346983,15500.0,1250,19375000.0
+TX-90019,Wardah Lightening Day Cream 20ml,Paragon,Rp 45.000,850,Dki Jakarta,2026-06-19 20:26:32.347319,45000.0,850,38250000.0
+TX-90012,Roma Kelapa Biscuit 300g,Foods,null,150,Bandung,2026-06-21 20:26:32.347441,22432.7731092437,150,3364915.9663865548
+TX-90032,Roma Kelapa Biscuit 300g,Foods,Rp 27.000,850,Dki Jakarta,2026-06-07 20:26:32.347539,27000.0,850,22950000.0
+TX-90117,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 15.500,None,Dki Jakarta,2026-06-24 20:26:32.347670,15500.0,0,0.0
+TX-90050,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 45.000,600,Surabaya,2026-06-16 20:26:32.347788,45000.0,600,27000000.0
+TX-90103,Kahf Face Wash Oil Control 100ml,Paragon,Rp 12.500,850,Dki Jakarta,2026-06-27 20:26:32.347862,12500.0,850,10625000.0
+TX-90076,Bango Kecap Manis Refill 520ml,Foods,Rp 18.500,None,Medan,2026-06-02 20:26:32.347886,18500.0,0,0.0
+TX-90029,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp35.000,"1,250",Dki Jakarta,2026-06-22 20:26:32.347951,35000.0,1250,43750000.0
+TX-90064,Teh Pucuk Harum 350ml BARU,Foods,Rp 27.000,0,Surabaya,2026-06-21 20:26:32.347981,27000.0,0,0.0
+TX-90025,Bango Kecap Manis Refill 520ml,Foods,Rp 15.500,850,Surabaya,2026-06-19 20:26:32.348006,15500.0,850,13175000.0
+TX-90046,Kahf Face Wash Oil Control 100ml,Paragon,Rp 15.500,2.100,Bandung,2026-06-12 20:26:32.348129,15500.0,2100,32550000.0
+TX-90099,Teh Pucuk Harum 350ml BARU,Foods,Rp 18.500,0,Bandung,2026-06-18 20:26:32.348177,18500.0,0,0.0
+TX-90079,Roma Kelapa Biscuit 300g,Foods,Rp 4.000,0,Surabaya,2026-06-29 20:26:32.348201,4000.0,0,0.0
+TX-90087,Kahf Face Wash Oil Control 100ml,Paragon,Rp 4.000,600,Dki Jakarta,2026-06-08 20:26:32.348322,4000.0,600,2400000.0
+TX-90112,Roma Kelapa Biscuit 300g,Foods,Rp 18.500,0,Dki Jakarta,2026-06-09 20:26:32.348417,18500.0,0,0.0
+TX-90089,Kahf Face Wash Oil Control 100ml,Paragon,Rp 18.500,600,Dki Jakarta,2026-06-10 20:26:32.348512,18500.0,600,11100000.0
+TX-90066,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,null,0,Medan,2026-06-09 20:26:32.348536,21089.04109589041,0,0.0
+TX-90070,Kahf Face Wash Oil Control 100ml,Paragon,Rp 12.500,"1,250",Dki Jakarta,2026-06-26 20:26:32.348560,12500.0,1250,15625000.0
+TX-90039,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp35.000,0,Bandung,2026-06-01 20:26:32.348631,35000.0,0,0.0
+TX-90077,Kahf Face Wash Oil Control 100ml,Paragon,Rp 27.000,2.100,Surabaya,2026-06-22 20:26:32.348732,27000.0,2100,56700000.0
+TX-90063,Roma Kelapa Biscuit 300g,Foods,Rp35.000,150,Dki Jakarta,2026-06-03 20:26:32.348804,35000.0,150,5250000.0
+TX-90026,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,null,150,National Trade,2026-06-27 20:26:32.348877,21222.727272727272,150,3183409.090909091
+TX-90062,Bango Kecap Manis Refill 520ml,Foods,Rp 15.500,None,Dki Jakarta,2026-06-07 20:26:32.348905,15500.0,0,0.0
+TX-90068,Bango Kecap Manis Refill 520ml,Foods,Rp35.000,2.100,Surabaya,2026-06-29 20:26:32.348930,35000.0,2100,73500000.0
+TX-90029,Bango Kecap Manis Refill 520ml,Foods,Rp 27.000,0,Dki Jakarta,2026-06-09 20:26:32.348954,27000.0,0,0.0
+TX-90007,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 45.000,430,Bandung,2026-06-25 20:26:32.349074,45000.0,430,19350000.0
+TX-90064,Bango Kecap Manis Refill 520ml,Foods,null,"1,250",Bandung,2026-06-07 20:26:32.349098,23909.90990990991,1250,29887387.387387387
+TX-90030,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 15.500,"1,250",Medan,2026-06-16 20:26:32.349122,15500.0,1250,19375000.0
+TX-90059,Kahf Face Wash Oil Control 100ml,Paragon,Rp 18.500,600,Gresik,2026-06-01 20:26:32.349146,18500.0,600,11100000.0
+TX-90043,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 12.500,2.100,Gresik,2026-06-26 20:26:32.349193,12500.0,2100,26250000.0
+TX-90076,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 4.000,0,Medan,2026-06-22 20:26:32.349283,4000.0,0,0.0
+TX-90117,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 18.500,0,Surabaya,2026-06-23 20:26:32.349325,18500.0,0,0.0
+TX-90112,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 18.500,600,Gresik,2026-06-21 20:26:32.349401,18500.0,600,11100000.0
+TX-90033,Teh Pucuk Harum 350ml BARU,Foods,Rp 27.000,0,Gresik,2026-06-16 20:26:32.349451,27000.0,0,0.0
+TX-90029,Wardah Lightening Day Cream 20ml,Paragon,Rp 12.500,None,Bandung,2026-06-12 20:26:32.349499,12500.0,0,0.0
+TX-90044,Wardah Lightening Day Cream 20ml,Paragon,Rp 12.500,"1,250",Dki Jakarta,2026-06-10 20:26:32.349548,12500.0,1250,15625000.0
+TX-90046,Roma Kelapa Biscuit 300g,Foods,Rp 4.000,None,Dki Jakarta,2026-05-30 20:26:32.349619,4000.0,0,0.0
+TX-90046,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 4.000,None,Dki Jakarta,2026-06-23 20:26:32.349771,4000.0,0,0.0
+TX-90063,Teh Pucuk Harum 350ml BARU,Foods,null,None,Gresik,2026-05-31 20:26:32.349821,21935.483870967742,0,0.0
+TX-90001,Teh Pucuk Harum 350ml BARU,Foods,Rp 18.500,430,Surabaya,2026-06-01 20:26:32.349900,18500.0,430,7955000.0
+TX-90021,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 27.000,0,National Trade,2026-06-09 20:26:32.349926,27000.0,0,0.0
+TX-90001,Wardah Lightening Day Cream 20ml,Paragon,null,0,Medan,2026-06-14 20:26:32.349975,22734.782608695652,0,0.0
+TX-90103,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 45.000,430,Dki Jakarta,2026-06-15 20:26:32.350157,45000.0,430,19350000.0
+TX-90092,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 18.500,"1,250",Surabaya,2026-06-24 20:26:32.350206,18500.0,1250,23125000.0
+TX-90116,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp35.000,430,Dki Jakarta,2026-06-20 20:26:32.350230,35000.0,430,15050000.0
+TX-90075,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp 18.500,None,Dki Jakarta,2026-06-22 20:26:32.350372,18500.0,0,0.0
+TX-90082,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,Rp 4.000,430,Gresik,2026-05-31 20:26:32.350395,4000.0,430,1720000.0
+TX-90007,Lifebuoy Sabun Cair Total 10 450ml Refill,Personal Care,Rp35.000,600,National Trade,2026-06-03 20:26:32.350418,35000.0,600,21000000.0
+TX-90102,Pepsodent Pencegah Gigi Berlubang 190g,Personal Care,null,"1,250",Surabaya,2026-05-31 20:26:32.350442,21089.04109589041,1250,26361301.369863015
+TX-90101,Wardah Lightening Day Cream 20ml,Paragon,Rp 18.500,850,Bandung,2026-06-02 20:26:32.350490,18500.0,850,15725000.0
+TX-90066,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 12.500,None,Dki Jakarta,2026-06-14 20:26:32.350586,12500.0,0,0.0
+TX-90051,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 15.500,150,Dki Jakarta,2026-06-07 20:26:32.350718,15500.0,150,2325000.0
+TX-90036,Sunsilk Shampoo Soft & Smooth 160ml [PROMO],Personal Care,Rp 18.500,430,Dki Jakarta,2026-06-16 20:26:32.350741,18500.0,430,7955000.0
+TX-90009,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 4.000,"1,250",Gresik,2026-06-19 20:26:32.350866,4000.0,1250,5000000.0
+TX-90018,Roma Kelapa Biscuit 300g,Foods,Rp 15.500,"1,250",Surabaya,2026-06-20 20:26:32.350984,15500.0,1250,19375000.0
+TX-90012,Richeese Nabati Wafer Keju 247gr BIG PACK,Foods,Rp 12.500,2.100,Surabaya,2026-06-15 20:26:32.351078,12500.0,2100,26250000.0
+TX-90048,Teh Pucuk Harum 350ml BARU,Foods,Rp35.000,0,National Trade,2026-06-14 20:26:32.351202,35000.0,0,0.0
